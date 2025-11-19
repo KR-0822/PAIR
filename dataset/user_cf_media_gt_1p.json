@@ -1,0 +1,7223 @@
+{
+    "user0": {
+        "fm_orig": [
+            "Fargo",
+            "Inception",
+            "Interstellar",
+            "The Martian"
+        ],
+        "fm_added": [],
+        "fm_only_added": [],
+        "fm_final": [
+            "Fargo",
+            "Inception",
+            "Interstellar",
+            "The Martian"
+        ],
+        "norm_final": [
+            "fargo",
+            "inception",
+            "interstellar",
+            "the martian"
+        ],
+        "norm_final_without_original": [],
+        "fm_orig_movieId": [
+            "608",
+            "79132",
+            "109487",
+            "134130"
+        ],
+        "fm_only_added_movieId": [],
+        "fm_final_movieId": [
+            "608",
+            "79132",
+            "109487",
+            "134130"
+        ]
+    },
+    "user1": {
+        "fm_orig": [
+            "Interstellar",
+            "The Office (US)",
+            "Top Gun: Maverick"
+        ],
+        "fm_added": [
+            {
+                "title": "The Dark Knight",
+                "from_user": "user294",
+                "similarity": 0.666667
+            },
+            {
+                "title": "Inception",
+                "from_user": "user293",
+                "similarity": 0.571429
+            },
+            {
+                "title": "The Wolf of Wall Street",
+                "from_user": "user293",
+                "similarity": 0.571429
+            },
+            {
+                "title": "Fight Club",
+                "from_user": "user86",
+                "similarity": 0.538462
+            },
+            {
+                "title": "Pulp Fiction",
+                "from_user": "user260",
+                "similarity": 0.538462
+            },
+            {
+                "title": "The Matrix Trilogy",
+                "from_user": "user86",
+                "similarity": 0.538462
+            }
+        ],
+        "fm_only_added": [
+            "The Dark Knight",
+            "Inception",
+            "The Wolf of Wall Street",
+            "Fight Club",
+            "Pulp Fiction",
+            "The Matrix Trilogy"
+        ],
+        "fm_final": [
+            "Interstellar",
+            "The Office (US)",
+            "Top Gun: Maverick",
+            "The Dark Knight",
+            "Inception",
+            "The Wolf of Wall Street",
+            "Fight Club",
+            "Pulp Fiction",
+            "The Matrix Trilogy"
+        ],
+        "norm_final": [
+            "fight club",
+            "inception",
+            "interstellar",
+            "pulp fiction",
+            "the dark knight",
+            "the matrix trilogy",
+            "the office",
+            "the wolf of wall street",
+            "top gun maverick"
+        ],
+        "norm_final_without_original": [
+            "fight club",
+            "inception",
+            "pulp fiction",
+            "the dark knight",
+            "the matrix trilogy",
+            "the wolf of wall street"
+        ],
+        "fm_orig_movieId": [
+            "109487",
+            "300065",
+            "274053"
+        ],
+        "fm_only_added_movieId": [
+            "130219",
+            "79132",
+            "106782",
+            "2959",
+            "296",
+            "300063"
+        ],
+        "fm_final_movieId": [
+            "109487",
+            "300065",
+            "274053",
+            "130219",
+            "79132",
+            "106782",
+            "2959",
+            "296",
+            "300063"
+        ]
+    },
+    "user2": {
+        "fm_orig": [
+            "Black Panther",
+            "Chappie",
+            "District 9"
+        ],
+        "fm_added": [],
+        "fm_only_added": [],
+        "fm_final": [
+            "Black Panther",
+            "Chappie",
+            "District 9"
+        ],
+        "norm_final": [
+            "black panther",
+            "chappie",
+            "district 9"
+        ],
+        "norm_final_without_original": [],
+        "fm_orig_movieId": [
+            "122906",
+            "120466",
+            "70286"
+        ],
+        "fm_only_added_movieId": [],
+        "fm_final_movieId": [
+            "122906",
+            "120466",
+            "70286"
+        ]
+    },
+    "user3": {
+        "fm_orig": [
+            "Black Panther",
+            "Bridgerton",
+            "Moonlight",
+            "Selma",
+            "The Queen's Gambit"
+        ],
+        "fm_added": [
+            {
+                "title": "Insecure",
+                "from_user": "user1130",
+                "similarity": 0.5625
+            },
+            {
+                "title": "Queen of Katwe",
+                "from_user": "user202",
+                "similarity": 0.555556
+            },
+            {
+                "title": "Queen Sono",
+                "from_user": "user225",
+                "similarity": 0.555556
+            },
+            {
+                "title": "The Help",
+                "from_user": "user202",
+                "similarity": 0.555556
+            },
+            {
+                "title": "When They See Us",
+                "from_user": "user225",
+                "similarity": 0.555556
+            },
+            {
+                "title": "12 Years a Slave",
+                "from_user": "user195",
+                "similarity": 0.529412
+            },
+            {
+                "title": "How to Get Away with Murder",
+                "from_user": "user191",
+                "similarity": 0.5
+            },
+            {
+                "title": "Scandal",
+                "from_user": "user191",
+                "similarity": 0.5
+            },
+            {
+                "title": "The Pursuit of Happyness",
+                "from_user": "user1370",
+                "similarity": 0.5
+            },
+            {
+                "title": "The Woman King",
+                "from_user": "user222",
+                "similarity": 0.5
+            }
+        ],
+        "fm_only_added": [
+            "Insecure",
+            "Queen of Katwe",
+            "Queen Sono",
+            "The Help",
+            "When They See Us",
+            "12 Years a Slave",
+            "How to Get Away with Murder",
+            "Scandal",
+            "The Pursuit of Happyness",
+            "The Woman King"
+        ],
+        "fm_final": [
+            "Black Panther",
+            "Bridgerton",
+            "Moonlight",
+            "Selma",
+            "The Queen's Gambit",
+            "Insecure",
+            "Queen of Katwe",
+            "Queen Sono",
+            "The Help",
+            "When They See Us",
+            "12 Years a Slave",
+            "How to Get Away with Murder",
+            "Scandal",
+            "The Pursuit of Happyness",
+            "The Woman King"
+        ],
+        "norm_final": [
+            "12 years a slave",
+            "black panther",
+            "bridgerton",
+            "how to get away with murder",
+            "insecure",
+            "moonlight",
+            "queen of katwe",
+            "queen sono",
+            "scandal",
+            "selma",
+            "the help",
+            "the pursuit of happyness",
+            "the queens gambit",
+            "the woman king",
+            "when they see us"
+        ],
+        "norm_final_without_original": [
+            "12 years a slave",
+            "how to get away with murder",
+            "insecure",
+            "queen of katwe",
+            "queen sono",
+            "scandal",
+            "the help",
+            "the pursuit of happyness",
+            "the woman king",
+            "when they see us"
+        ],
+        "fm_orig_movieId": [
+            "122906",
+            "300003",
+            "162414",
+            "118700",
+            "300092"
+        ],
+        "fm_only_added_movieId": [
+            "269506",
+            "162596",
+            "300041",
+            "88810",
+            "300075",
+            "105844",
+            "300018",
+            "4659",
+            "47099",
+            "278820"
+        ],
+        "fm_final_movieId": [
+            "122906",
+            "300003",
+            "162414",
+            "118700",
+            "300092",
+            "269506",
+            "162596",
+            "300041",
+            "88810",
+            "300075",
+            "105844",
+            "300018",
+            "4659",
+            "47099",
+            "278820"
+        ]
+    },
+    "user5": {
+        "fm_orig": [
+            "Black Panther",
+            "Queen Sono",
+            "The Woman King"
+        ],
+        "fm_added": [
+            {
+                "title": "How to Get Away with Murder",
+                "from_user": "user227",
+                "similarity": 0.615385
+            },
+            {
+                "title": "Scandal",
+                "from_user": "user227",
+                "similarity": 0.615385
+            },
+            {
+                "title": "Selma",
+                "from_user": "user222",
+                "similarity": 0.571429
+            },
+            {
+                "title": "The Harder They Fall",
+                "from_user": "user180",
+                "similarity": 0.538462
+            },
+            {
+                "title": "When They See Us",
+                "from_user": "user225",
+                "similarity": 0.533333
+            },
+            {
+                "title": "Tsotsi",
+                "from_user": "user214",
+                "similarity": 0.5
+            }
+        ],
+        "fm_only_added": [
+            "How to Get Away with Murder",
+            "Scandal",
+            "Selma",
+            "The Harder They Fall",
+            "When They See Us",
+            "Tsotsi"
+        ],
+        "fm_final": [
+            "Black Panther",
+            "Queen Sono",
+            "The Woman King",
+            "How to Get Away with Murder",
+            "Scandal",
+            "Selma",
+            "The Harder They Fall",
+            "When They See Us",
+            "Tsotsi"
+        ],
+        "norm_final": [
+            "black panther",
+            "how to get away with murder",
+            "queen sono",
+            "scandal",
+            "selma",
+            "the harder they fall",
+            "the woman king",
+            "tsotsi",
+            "when they see us"
+        ],
+        "norm_final_without_original": [
+            "how to get away with murder",
+            "scandal",
+            "selma",
+            "the harder they fall",
+            "tsotsi",
+            "when they see us"
+        ],
+        "fm_orig_movieId": [
+            "122906",
+            "300041",
+            "278820"
+        ],
+        "fm_only_added_movieId": [
+            "300018",
+            "4659",
+            "118700",
+            "261271",
+            "300075",
+            "44204"
+        ],
+        "fm_final_movieId": [
+            "122906",
+            "300041",
+            "278820",
+            "300018",
+            "4659",
+            "118700",
+            "261271",
+            "300075",
+            "44204"
+        ]
+    },
+    "user6": {
+        "fm_orig": [
+            "Black Panther",
+            "Queen of Katwe",
+            "Selma",
+            "When They See Us"
+        ],
+        "fm_added": [
+            {
+                "title": "12 Years a Slave",
+                "from_user": "user208",
+                "similarity": 0.75
+            },
+            {
+                "title": "Queen Sono",
+                "from_user": "user203",
+                "similarity": 0.571429
+            },
+            {
+                "title": "The Underground Railroad",
+                "from_user": "user226",
+                "similarity": 0.529412
+            },
+            {
+                "title": "How to Get Away with Murder",
+                "from_user": "user191",
+                "similarity": 0.5
+            },
+            {
+                "title": "Insecure",
+                "from_user": "user892",
+                "similarity": 0.5
+            },
+            {
+                "title": "Moonlight",
+                "from_user": "user1125",
+                "similarity": 0.5
+            },
+            {
+                "title": "Scandal",
+                "from_user": "user191",
+                "similarity": 0.5
+            },
+            {
+                "title": "The Pursuit of Happyness",
+                "from_user": "user1370",
+                "similarity": 0.5
+            },
+            {
+                "title": "The Woman King",
+                "from_user": "user222",
+                "similarity": 0.5
+            },
+            {
+                "title": "The Help",
+                "from_user": "user202",
+                "similarity": 0.470588
+            }
+        ],
+        "fm_only_added": [
+            "12 Years a Slave",
+            "Queen Sono",
+            "The Underground Railroad",
+            "How to Get Away with Murder",
+            "Insecure",
+            "Moonlight",
+            "Scandal",
+            "The Pursuit of Happyness",
+            "The Woman King",
+            "The Help"
+        ],
+        "fm_final": [
+            "Black Panther",
+            "Queen of Katwe",
+            "Selma",
+            "When They See Us",
+            "12 Years a Slave",
+            "Queen Sono",
+            "The Underground Railroad",
+            "How to Get Away with Murder",
+            "Insecure",
+            "Moonlight",
+            "Scandal",
+            "The Pursuit of Happyness",
+            "The Woman King",
+            "The Help"
+        ],
+        "norm_final": [
+            "12 years a slave",
+            "black panther",
+            "how to get away with murder",
+            "insecure",
+            "moonlight",
+            "queen of katwe",
+            "queen sono",
+            "scandal",
+            "selma",
+            "the help",
+            "the pursuit of happyness",
+            "the underground railroad",
+            "the woman king",
+            "when they see us"
+        ],
+        "norm_final_without_original": [
+            "12 years a slave",
+            "how to get away with murder",
+            "insecure",
+            "moonlight",
+            "queen sono",
+            "scandal",
+            "the help",
+            "the pursuit of happyness",
+            "the underground railroad",
+            "the woman king"
+        ],
+        "fm_orig_movieId": [
+            "122906",
+            "162596",
+            "118700",
+            "300075"
+        ],
+        "fm_only_added_movieId": [
+            "105844",
+            "300041",
+            "300067",
+            "300018",
+            "269506",
+            "162414",
+            "4659",
+            "47099",
+            "278820",
+            "88810"
+        ],
+        "fm_final_movieId": [
+            "122906",
+            "162596",
+            "118700",
+            "300075",
+            "105844",
+            "300041",
+            "300067",
+            "300018",
+            "269506",
+            "162414",
+            "4659",
+            "47099",
+            "278820",
+            "88810"
+        ]
+    },
+    "user7": {
+        "fm_orig": [
+            "Frances Ha",
+            "Lady Bird",
+            "Little Women (2019)"
+        ],
+        "fm_added": [
+            {
+                "title": "The Perks of Being a Wallflower",
+                "from_user": "user273",
+                "similarity": 0.666667
+            },
+            {
+                "title": "Booksmart",
+                "from_user": "user1159",
+                "similarity": 0.583333
+            },
+            {
+                "title": "Call Me By Your Name",
+                "from_user": "user19",
+                "similarity": 0.583333
+            },
+            {
+                "title": "Little Women",
+                "from_user": "user98",
+                "similarity": 0.538462
+            },
+            {
+                "title": "Marriage Story",
+                "from_user": "user438",
+                "similarity": 0.538462
+            },
+            {
+                "title": "Normal People",
+                "from_user": "user16",
+                "similarity": 0.538462
+            },
+            {
+                "title": "The Queen's Gambit",
+                "from_user": "user83",
+                "similarity": 0.538462
+            }
+        ],
+        "fm_only_added": [
+            "The Perks of Being a Wallflower",
+            "Booksmart",
+            "Call Me By Your Name",
+            "Little Women",
+            "Marriage Story",
+            "Normal People",
+            "The Queen's Gambit"
+        ],
+        "fm_final": [
+            "Frances Ha",
+            "Lady Bird",
+            "Little Women (2019)",
+            "The Perks of Being a Wallflower",
+            "Booksmart",
+            "Call Me By Your Name",
+            "Little Women",
+            "Marriage Story",
+            "Normal People",
+            "The Queen's Gambit"
+        ],
+        "norm_final": [
+            "booksmart",
+            "call me by your name",
+            "frances ha",
+            "lady bird",
+            "little women",
+            "marriage story",
+            "normal people",
+            "the perks of being a wallflower",
+            "the queens gambit"
+        ],
+        "norm_final_without_original": [
+            "booksmart",
+            "call me by your name",
+            "little women",
+            "marriage story",
+            "normal people",
+            "the perks of being a wallflower",
+            "the queens gambit"
+        ],
+        "fm_orig_movieId": [
+            "102800",
+            "177615",
+            "209315"
+        ],
+        "fm_only_added_movieId": [
+            "96821",
+            "200306",
+            "168492",
+            "261",
+            "205441",
+            "300035",
+            "300092"
+        ],
+        "fm_final_movieId": [
+            "102800",
+            "177615",
+            "209315",
+            "96821",
+            "200306",
+            "168492",
+            "261",
+            "205441",
+            "300035",
+            "300092"
+        ]
+    },
+    "user8": {
+        "fm_orig": [
+            "12 Years a Slave",
+            "Black Panther",
+            "Fences",
+            "Queen Sono",
+            "When They See Us"
+        ],
+        "fm_added": [
+            {
+                "title": "Selma",
+                "from_user": "user225",
+                "similarity": 0.6875
+            },
+            {
+                "title": "Queen of Katwe",
+                "from_user": "user217",
+                "similarity": 0.625
+            },
+            {
+                "title": "The Woman King",
+                "from_user": "user217",
+                "similarity": 0.625
+            },
+            {
+                "title": "Roots",
+                "from_user": "user215",
+                "similarity": 0.529412
+            },
+            {
+                "title": "The Help",
+                "from_user": "user215",
+                "similarity": 0.529412
+            },
+            {
+                "title": "How to Get Away with Murder",
+                "from_user": "user191",
+                "similarity": 0.526316
+            },
+            {
+                "title": "Scandal",
+                "from_user": "user191",
+                "similarity": 0.526316
+            },
+            {
+                "title": "The Underground Railroad",
+                "from_user": "user226",
+                "similarity": 0.473684
+            }
+        ],
+        "fm_only_added": [
+            "Selma",
+            "Queen of Katwe",
+            "The Woman King",
+            "Roots",
+            "The Help",
+            "How to Get Away with Murder",
+            "Scandal",
+            "The Underground Railroad"
+        ],
+        "fm_final": [
+            "12 Years a Slave",
+            "Black Panther",
+            "Fences",
+            "Queen Sono",
+            "When They See Us",
+            "Selma",
+            "Queen of Katwe",
+            "The Woman King",
+            "Roots",
+            "The Help",
+            "How to Get Away with Murder",
+            "Scandal",
+            "The Underground Railroad"
+        ],
+        "norm_final": [
+            "12 years a slave",
+            "black panther",
+            "fences",
+            "how to get away with murder",
+            "queen of katwe",
+            "queen sono",
+            "roots",
+            "scandal",
+            "selma",
+            "the help",
+            "the underground railroad",
+            "the woman king",
+            "when they see us"
+        ],
+        "norm_final_without_original": [
+            "how to get away with murder",
+            "queen of katwe",
+            "roots",
+            "scandal",
+            "selma",
+            "the help",
+            "the underground railroad",
+            "the woman king"
+        ],
+        "fm_orig_movieId": [
+            "105844",
+            "122906",
+            "166705",
+            "300041",
+            "300075"
+        ],
+        "fm_only_added_movieId": [
+            "118700",
+            "162596",
+            "278820",
+            "69849",
+            "88810",
+            "300018",
+            "4659",
+            "300067"
+        ],
+        "fm_final_movieId": [
+            "105844",
+            "122906",
+            "166705",
+            "300041",
+            "300075",
+            "118700",
+            "162596",
+            "278820",
+            "69849",
+            "88810",
+            "300018",
+            "4659",
+            "300067"
+        ]
+    },
+    "user9": {
+        "fm_orig": [
+            "Amelie",
+            "Lady Bird",
+            "The Notebook"
+        ],
+        "fm_added": [],
+        "fm_only_added": [],
+        "fm_final": [
+            "Amelie",
+            "Lady Bird",
+            "The Notebook"
+        ],
+        "norm_final": [
+            "amelie",
+            "lady bird",
+            "the notebook"
+        ],
+        "norm_final_without_original": [],
+        "fm_orig_movieId": [
+            "4973",
+            "177615",
+            "8533"
+        ],
+        "fm_only_added_movieId": [],
+        "fm_final_movieId": [
+            "4973",
+            "177615",
+            "8533"
+        ]
+    },
+    "user10": {
+        "fm_orig": [
+            "Amores Perros",
+            "Roma",
+            "Y Tu Mamá También"
+        ],
+        "fm_added": [
+            {
+                "title": "El Infierno",
+                "from_user": "user321",
+                "similarity": 0.727273
+            },
+            {
+                "title": "Pan's Labyrinth",
+                "from_user": "user497",
+                "similarity": 0.692308
+            },
+            {
+                "title": "Narcos",
+                "from_user": "user148",
+                "similarity": 0.615385
+            },
+            {
+                "title": "Élite",
+                "from_user": "user148",
+                "similarity": 0.615385
+            },
+            {
+                "title": "El Laberinto del Fauno",
+                "from_user": "user128",
+                "similarity": 0.571429
+            },
+            {
+                "title": "Gravity",
+                "from_user": "user119",
+                "similarity": 0.571429
+            },
+            {
+                "title": "The Revenant",
+                "from_user": "user133",
+                "similarity": 0.538462
+            }
+        ],
+        "fm_only_added": [
+            "El Infierno",
+            "Pan's Labyrinth",
+            "Narcos",
+            "Élite",
+            "El Laberinto del Fauno",
+            "Gravity",
+            "The Revenant"
+        ],
+        "fm_final": [
+            "Amores Perros",
+            "Roma",
+            "Y Tu Mamá También",
+            "El Infierno",
+            "Pan's Labyrinth",
+            "Narcos",
+            "Élite",
+            "El Laberinto del Fauno",
+            "Gravity",
+            "The Revenant"
+        ],
+        "norm_final": [
+            "amores perros",
+            "el infierno",
+            "el laberinto del fauno",
+            "gravity",
+            "lite",
+            "narcos",
+            "pans labyrinth",
+            "roma",
+            "the revenant",
+            "y tu mam tambin"
+        ],
+        "norm_final_without_original": [
+            "el infierno",
+            "el laberinto del fauno",
+            "gravity",
+            "lite",
+            "narcos",
+            "pans labyrinth",
+            "the revenant"
+        ],
+        "fm_orig_movieId": [
+            "4235",
+            "123457",
+            "5225"
+        ],
+        "fm_only_added_movieId": [
+            "132167",
+            "48394",
+            "300034",
+            "300076",
+            "48394",
+            "104841",
+            "139385"
+        ],
+        "fm_final_movieId": [
+            "4235",
+            "123457",
+            "5225",
+            "132167",
+            "48394",
+            "300034",
+            "300076",
+            "48394",
+            "104841",
+            "139385"
+        ]
+    },
+    "user11": {
+        "fm_orig": [
+            "Gravity",
+            "Roma",
+            "Y Tu Mamá También"
+        ],
+        "fm_added": [
+            {
+                "title": "Amores Perros",
+                "from_user": "user462",
+                "similarity": 0.727273
+            },
+            {
+                "title": "El Infierno",
+                "from_user": "user145",
+                "similarity": 0.538462
+            },
+            {
+                "title": "Frida",
+                "from_user": "user12",
+                "similarity": 0.538462
+            },
+            {
+                "title": "Gloria",
+                "from_user": "user129",
+                "similarity": 0.538462
+            },
+            {
+                "title": "Narcos",
+                "from_user": "user509",
+                "similarity": 0.538462
+            },
+            {
+                "title": "Pan's Labyrinth",
+                "from_user": "user145",
+                "similarity": 0.538462
+            },
+            {
+                "title": "El Laberinto del Fauno",
+                "from_user": "user122",
+                "similarity": 0.5
+            }
+        ],
+        "fm_only_added": [
+            "Amores Perros",
+            "El Infierno",
+            "Frida",
+            "Gloria",
+            "Narcos",
+            "Pan's Labyrinth",
+            "El Laberinto del Fauno"
+        ],
+        "fm_final": [
+            "Gravity",
+            "Roma",
+            "Y Tu Mamá También",
+            "Amores Perros",
+            "El Infierno",
+            "Frida",
+            "Gloria",
+            "Narcos",
+            "Pan's Labyrinth",
+            "El Laberinto del Fauno"
+        ],
+        "norm_final": [
+            "amores perros",
+            "el infierno",
+            "el laberinto del fauno",
+            "frida",
+            "gloria",
+            "gravity",
+            "narcos",
+            "pans labyrinth",
+            "roma",
+            "y tu mam tambin"
+        ],
+        "norm_final_without_original": [
+            "amores perros",
+            "el infierno",
+            "el laberinto del fauno",
+            "frida",
+            "gloria",
+            "narcos",
+            "pans labyrinth"
+        ],
+        "fm_orig_movieId": [
+            "104841",
+            "123457",
+            "5225"
+        ],
+        "fm_only_added_movieId": [
+            "4235",
+            "132167",
+            "5791",
+            "2479",
+            "300034",
+            "48394",
+            "48394"
+        ],
+        "fm_final_movieId": [
+            "104841",
+            "123457",
+            "5225",
+            "4235",
+            "132167",
+            "5791",
+            "2479",
+            "300034",
+            "48394",
+            "48394"
+        ]
+    },
+    "user12": {
+        "fm_orig": [
+            "Frida",
+            "Roma",
+            "Y Tu Mamá También"
+        ],
+        "fm_added": [
+            {
+                "title": "Amores Perros",
+                "from_user": "user312",
+                "similarity": 0.727273
+            },
+            {
+                "title": "Pan's Labyrinth",
+                "from_user": "user1064",
+                "similarity": 0.692308
+            },
+            {
+                "title": "Gloria",
+                "from_user": "user129",
+                "similarity": 0.666667
+            },
+            {
+                "title": "Like Water for Chocolate",
+                "from_user": "user1065",
+                "similarity": 0.666667
+            },
+            {
+                "title": "El laberinto del fauno",
+                "from_user": "user1061",
+                "similarity": 0.538462
+            },
+            {
+                "title": "Gravity",
+                "from_user": "user11",
+                "similarity": 0.538462
+            },
+            {
+                "title": "La Casa de Papel",
+                "from_user": "user151",
+                "similarity": 0.538462
+            },
+            {
+                "title": "The Motorcycle Diaries",
+                "from_user": "user1115",
+                "similarity": 0.538462
+            },
+            {
+                "title": "Todo sobre mi madre",
+                "from_user": "user485",
+                "similarity": 0.538462
+            }
+        ],
+        "fm_only_added": [
+            "Amores Perros",
+            "Pan's Labyrinth",
+            "Gloria",
+            "Like Water for Chocolate",
+            "El laberinto del fauno",
+            "Gravity",
+            "La Casa de Papel",
+            "The Motorcycle Diaries",
+            "Todo sobre mi madre"
+        ],
+        "fm_final": [
+            "Frida",
+            "Roma",
+            "Y Tu Mamá También",
+            "Amores Perros",
+            "Pan's Labyrinth",
+            "Gloria",
+            "Like Water for Chocolate",
+            "El laberinto del fauno",
+            "Gravity",
+            "La Casa de Papel",
+            "The Motorcycle Diaries",
+            "Todo sobre mi madre"
+        ],
+        "norm_final": [
+            "amores perros",
+            "el laberinto del fauno",
+            "frida",
+            "gloria",
+            "gravity",
+            "la casa de papel",
+            "like water for chocolate",
+            "pans labyrinth",
+            "roma",
+            "the motorcycle diaries",
+            "todo sobre mi madre",
+            "y tu mam tambin"
+        ],
+        "norm_final_without_original": [
+            "amores perros",
+            "el laberinto del fauno",
+            "gloria",
+            "gravity",
+            "la casa de papel",
+            "like water for chocolate",
+            "pans labyrinth",
+            "the motorcycle diaries",
+            "todo sobre mi madre"
+        ],
+        "fm_orig_movieId": [
+            "5791",
+            "123457",
+            "5225"
+        ],
+        "fm_only_added_movieId": [
+            "4235",
+            "48394",
+            "2479",
+            "265",
+            "48394",
+            "104841",
+            "300023",
+            "8873",
+            "3083"
+        ],
+        "fm_final_movieId": [
+            "5791",
+            "123457",
+            "5225",
+            "4235",
+            "48394",
+            "2479",
+            "265",
+            "48394",
+            "104841",
+            "300023",
+            "8873",
+            "3083"
+        ]
+    },
+    "user13": {
+        "fm_orig": [
+            "Frida",
+            "Pan's Labyrinth",
+            "Roma",
+            "Y Tu Mamá También"
+        ],
+        "fm_added": [
+            {
+                "title": "Coco",
+                "from_user": "user502",
+                "similarity": 0.615385
+            },
+            {
+                "title": "Amores Perros",
+                "from_user": "user1057",
+                "similarity": 0.6
+            },
+            {
+                "title": "La Casa de Papel",
+                "from_user": "user151",
+                "similarity": 0.571429
+            }
+        ],
+        "fm_only_added": [
+            "Coco",
+            "Amores Perros",
+            "La Casa de Papel"
+        ],
+        "fm_final": [
+            "Frida",
+            "Pan's Labyrinth",
+            "Roma",
+            "Y Tu Mamá También",
+            "Coco",
+            "Amores Perros",
+            "La Casa de Papel"
+        ],
+        "norm_final": [
+            "amores perros",
+            "coco",
+            "frida",
+            "la casa de papel",
+            "pans labyrinth",
+            "roma",
+            "y tu mam tambin"
+        ],
+        "norm_final_without_original": [
+            "amores perros",
+            "coco",
+            "la casa de papel"
+        ],
+        "fm_orig_movieId": [
+            "5791",
+            "48394",
+            "123457",
+            "5225"
+        ],
+        "fm_only_added_movieId": [
+            "161644",
+            "4235",
+            "300023"
+        ],
+        "fm_final_movieId": [
+            "5791",
+            "48394",
+            "123457",
+            "5225",
+            "161644",
+            "4235",
+            "300023"
+        ]
+    },
+    "user14": {
+        "fm_orig": [
+            "Frida",
+            "Pan's Labyrinth",
+            "Roma",
+            "Y Tu Mamá También"
+        ],
+        "fm_added": [
+            {
+                "title": "Amores Perros",
+                "from_user": "user1057",
+                "similarity": 0.6
+            }
+        ],
+        "fm_only_added": [
+            "Amores Perros"
+        ],
+        "fm_final": [
+            "Frida",
+            "Pan's Labyrinth",
+            "Roma",
+            "Y Tu Mamá También",
+            "Amores Perros"
+        ],
+        "norm_final": [
+            "amores perros",
+            "frida",
+            "pans labyrinth",
+            "roma",
+            "y tu mam tambin"
+        ],
+        "norm_final_without_original": [
+            "amores perros"
+        ],
+        "fm_orig_movieId": [
+            "5791",
+            "48394",
+            "123457",
+            "5225"
+        ],
+        "fm_only_added_movieId": [
+            "4235"
+        ],
+        "fm_final_movieId": [
+            "5791",
+            "48394",
+            "123457",
+            "5225",
+            "4235"
+        ]
+    },
+    "user15": {
+        "fm_orig": [
+            "Breaking Bad",
+            "Inception",
+            "The Shawshank Redemption"
+        ],
+        "fm_added": [
+            {
+                "title": "Pulp Fiction",
+                "from_user": "user22",
+                "similarity": 0.642857
+            },
+            {
+                "title": "Game of Thrones",
+                "from_user": "user1147",
+                "similarity": 0.571429
+            },
+            {
+                "title": "The Godfather",
+                "from_user": "user1006",
+                "similarity": 0.571429
+            },
+            {
+                "title": "The Office (US)",
+                "from_user": "user690",
+                "similarity": 0.571429
+            },
+            {
+                "title": "The Lord of the Rings Trilogy",
+                "from_user": "user137",
+                "similarity": 0.533333
+            },
+            {
+                "title": "The Dark Knight",
+                "from_user": "user415",
+                "similarity": 0.5
+            }
+        ],
+        "fm_only_added": [
+            "Pulp Fiction",
+            "Game of Thrones",
+            "The Godfather",
+            "The Office (US)",
+            "The Lord of the Rings Trilogy",
+            "The Dark Knight"
+        ],
+        "fm_final": [
+            "Breaking Bad",
+            "Inception",
+            "The Shawshank Redemption",
+            "Pulp Fiction",
+            "Game of Thrones",
+            "The Godfather",
+            "The Office (US)",
+            "The Lord of the Rings Trilogy",
+            "The Dark Knight"
+        ],
+        "norm_final": [
+            "breaking bad",
+            "game of thrones",
+            "inception",
+            "pulp fiction",
+            "the dark knight",
+            "the godfather",
+            "the lord of the rings trilogy",
+            "the office",
+            "the shawshank redemption"
+        ],
+        "norm_final_without_original": [
+            "game of thrones",
+            "pulp fiction",
+            "the dark knight",
+            "the godfather",
+            "the lord of the rings trilogy",
+            "the office"
+        ],
+        "fm_orig_movieId": [
+            "300079",
+            "79132",
+            "318"
+        ],
+        "fm_only_added_movieId": [
+            "296",
+            "200950",
+            "300090",
+            "300065",
+            "300060",
+            "130219"
+        ],
+        "fm_final_movieId": [
+            "300079",
+            "79132",
+            "318",
+            "296",
+            "200950",
+            "300090",
+            "300065",
+            "300060",
+            "130219"
+        ]
+    },
+    "user16": {
+        "fm_orig": [
+            "Lady Bird",
+            "Little Women (2019)",
+            "Normal People"
+        ],
+        "fm_added": [
+            {
+                "title": "Little Women",
+                "from_user": "user23",
+                "similarity": 0.818182
+            },
+            {
+                "title": "Call Me By Your Name",
+                "from_user": "user25",
+                "similarity": 0.666667
+            },
+            {
+                "title": "The Queen's Gambit",
+                "from_user": "user83",
+                "similarity": 0.666667
+            },
+            {
+                "title": "Booksmart",
+                "from_user": "user474",
+                "similarity": 0.538462
+            },
+            {
+                "title": "Dune",
+                "from_user": "user97",
+                "similarity": 0.538462
+            },
+            {
+                "title": "Frances Ha",
+                "from_user": "user7",
+                "similarity": 0.538462
+            },
+            {
+                "title": "The Perks of Being a Wallflower",
+                "from_user": "user273",
+                "similarity": 0.538462
+            }
+        ],
+        "fm_only_added": [
+            "Little Women",
+            "Call Me By Your Name",
+            "The Queen's Gambit",
+            "Booksmart",
+            "Dune",
+            "Frances Ha",
+            "The Perks of Being a Wallflower"
+        ],
+        "fm_final": [
+            "Lady Bird",
+            "Little Women (2019)",
+            "Normal People",
+            "Little Women",
+            "Call Me By Your Name",
+            "The Queen's Gambit",
+            "Booksmart",
+            "Dune",
+            "Frances Ha",
+            "The Perks of Being a Wallflower"
+        ],
+        "norm_final": [
+            "booksmart",
+            "call me by your name",
+            "dune",
+            "frances ha",
+            "lady bird",
+            "little women",
+            "normal people",
+            "the perks of being a wallflower",
+            "the queens gambit"
+        ],
+        "norm_final_without_original": [
+            "booksmart",
+            "call me by your name",
+            "dune",
+            "frances ha",
+            "little women",
+            "the perks of being a wallflower",
+            "the queens gambit"
+        ],
+        "fm_orig_movieId": [
+            "177615",
+            "209315",
+            "300035"
+        ],
+        "fm_only_added_movieId": [
+            "261",
+            "168492",
+            "300092",
+            "200306",
+            "2021",
+            "102800",
+            "96821"
+        ],
+        "fm_final_movieId": [
+            "177615",
+            "209315",
+            "300035",
+            "261",
+            "168492",
+            "300092",
+            "200306",
+            "2021",
+            "102800",
+            "96821"
+        ]
+    },
+    "user17": {
+        "fm_orig": [
+            "Inception",
+            "Iron Man",
+            "Pulp Fiction",
+            "The Avengers"
+        ],
+        "fm_added": [
+            {
+                "title": "Guardians of the Galaxy",
+                "from_user": "user717",
+                "similarity": 0.6
+            },
+            {
+                "title": "Avengers: Endgame",
+                "from_user": "user101",
+                "similarity": 0.5
+            },
+            {
+                "title": "Rick and Morty",
+                "from_user": "user101",
+                "similarity": 0.5
+            },
+            {
+                "title": "The Big Lebowski",
+                "from_user": "user445",
+                "similarity": 0.5
+            },
+            {
+                "title": "Stranger Things",
+                "from_user": "user287",
+                "similarity": 0.470588
+            },
+            {
+                "title": "The Lord of the Rings Trilogy",
+                "from_user": "user287",
+                "similarity": 0.470588
+            },
+            {
+                "title": "The Office",
+                "from_user": "user1203",
+                "similarity": 0.470588
+            }
+        ],
+        "fm_only_added": [
+            "Guardians of the Galaxy",
+            "Avengers: Endgame",
+            "Rick and Morty",
+            "The Big Lebowski",
+            "Stranger Things",
+            "The Lord of the Rings Trilogy",
+            "The Office"
+        ],
+        "fm_final": [
+            "Inception",
+            "Iron Man",
+            "Pulp Fiction",
+            "The Avengers",
+            "Guardians of the Galaxy",
+            "Avengers: Endgame",
+            "Rick and Morty",
+            "The Big Lebowski",
+            "Stranger Things",
+            "The Lord of the Rings Trilogy",
+            "The Office"
+        ],
+        "norm_final": [
+            "avengers endgame",
+            "guardians of the galaxy",
+            "inception",
+            "iron man",
+            "pulp fiction",
+            "rick and morty",
+            "stranger things",
+            "the avengers",
+            "the big lebowski",
+            "the lord of the rings trilogy",
+            "the office"
+        ],
+        "norm_final_without_original": [
+            "avengers endgame",
+            "guardians of the galaxy",
+            "rick and morty",
+            "stranger things",
+            "the big lebowski",
+            "the lord of the rings trilogy",
+            "the office"
+        ],
+        "fm_orig_movieId": [
+            "79132",
+            "59315",
+            "296",
+            "89745"
+        ],
+        "fm_only_added_movieId": [
+            "112852",
+            "300000",
+            "175693",
+            "1732",
+            "261135",
+            "300060",
+            "136614"
+        ],
+        "fm_final_movieId": [
+            "79132",
+            "59315",
+            "296",
+            "89745",
+            "112852",
+            "300000",
+            "175693",
+            "1732",
+            "261135",
+            "300060",
+            "136614"
+        ]
+    },
+    "user18": {
+        "fm_orig": [
+            "Call Me By Your Name",
+            "Lady Bird",
+            "Little Women (2019)"
+        ],
+        "fm_added": [
+            {
+                "title": "Normal People",
+                "from_user": "user25",
+                "similarity": 0.666667
+            },
+            {
+                "title": "Bones and All",
+                "from_user": "user233",
+                "similarity": 0.538462
+            },
+            {
+                "title": "Pride and Prejudice (2005)",
+                "from_user": "user1023",
+                "similarity": 0.538462
+            },
+            {
+                "title": "The Lord of the Rings Trilogy",
+                "from_user": "user1023",
+                "similarity": 0.538462
+            },
+            {
+                "title": "The Queen's Gambit",
+                "from_user": "user83",
+                "similarity": 0.538462
+            }
+        ],
+        "fm_only_added": [
+            "Normal People",
+            "Bones and All",
+            "Pride and Prejudice (2005)",
+            "The Lord of the Rings Trilogy",
+            "The Queen's Gambit"
+        ],
+        "fm_final": [
+            "Call Me By Your Name",
+            "Lady Bird",
+            "Little Women (2019)",
+            "Normal People",
+            "Bones and All",
+            "Pride and Prejudice (2005)",
+            "The Lord of the Rings Trilogy",
+            "The Queen's Gambit"
+        ],
+        "norm_final": [
+            "bones and all",
+            "call me by your name",
+            "lady bird",
+            "little women",
+            "normal people",
+            "pride and prejudice",
+            "the lord of the rings trilogy",
+            "the queens gambit"
+        ],
+        "norm_final_without_original": [
+            "bones and all",
+            "normal people",
+            "pride and prejudice",
+            "the lord of the rings trilogy",
+            "the queens gambit"
+        ],
+        "fm_orig_movieId": [
+            "168492",
+            "177615",
+            "209315"
+        ],
+        "fm_only_added_movieId": [
+            "300035",
+            "261809",
+            "300040",
+            "300060",
+            "300092"
+        ],
+        "fm_final_movieId": [
+            "168492",
+            "177615",
+            "209315",
+            "300035",
+            "261809",
+            "300040",
+            "300060",
+            "300092"
+        ]
+    },
+    "user19": {
+        "fm_orig": [
+            "Call Me By Your Name",
+            "Lady Bird",
+            "Little Women (2019)"
+        ],
+        "fm_added": [
+            {
+                "title": "Little Women",
+                "from_user": "user164",
+                "similarity": 0.727273
+            },
+            {
+                "title": "Booksmart",
+                "from_user": "user474",
+                "similarity": 0.583333
+            },
+            {
+                "title": "Frances Ha",
+                "from_user": "user645",
+                "similarity": 0.583333
+            },
+            {
+                "title": "Normal People",
+                "from_user": "user141",
+                "similarity": 0.583333
+            },
+            {
+                "title": "The Perks of Being a Wallflower",
+                "from_user": "user273",
+                "similarity": 0.583333
+            }
+        ],
+        "fm_only_added": [
+            "Little Women",
+            "Booksmart",
+            "Frances Ha",
+            "Normal People",
+            "The Perks of Being a Wallflower"
+        ],
+        "fm_final": [
+            "Call Me By Your Name",
+            "Lady Bird",
+            "Little Women (2019)",
+            "Little Women",
+            "Booksmart",
+            "Frances Ha",
+            "Normal People",
+            "The Perks of Being a Wallflower"
+        ],
+        "norm_final": [
+            "booksmart",
+            "call me by your name",
+            "frances ha",
+            "lady bird",
+            "little women",
+            "normal people",
+            "the perks of being a wallflower"
+        ],
+        "norm_final_without_original": [
+            "booksmart",
+            "frances ha",
+            "little women",
+            "normal people",
+            "the perks of being a wallflower"
+        ],
+        "fm_orig_movieId": [
+            "168492",
+            "177615",
+            "209315"
+        ],
+        "fm_only_added_movieId": [
+            "261",
+            "200306",
+            "102800",
+            "300035",
+            "96821"
+        ],
+        "fm_final_movieId": [
+            "168492",
+            "177615",
+            "209315",
+            "261",
+            "200306",
+            "102800",
+            "300035",
+            "96821"
+        ]
+    },
+    "user20": {
+        "fm_orig": [
+            "Hable con Ella",
+            "La Piel Que Habito",
+            "Todo Sobre Mi Madre",
+            "Volver"
+        ],
+        "fm_added": [
+            {
+                "title": "Hable con ella",
+                "from_user": "user89",
+                "similarity": 0.833333
+            },
+            {
+                "title": "Todo sobre mi madre",
+                "from_user": "user89",
+                "similarity": 0.833333
+            },
+            {
+                "title": "Abre los ojos",
+                "from_user": "user27",
+                "similarity": 0.714286
+            },
+            {
+                "title": "Mar adentro",
+                "from_user": "user27",
+                "similarity": 0.714286
+            },
+            {
+                "title": "Mar Adentro",
+                "from_user": "user33",
+                "similarity": 0.571429
+            }
+        ],
+        "fm_only_added": [
+            "Hable con ella",
+            "Todo sobre mi madre",
+            "Abre los ojos",
+            "Mar adentro",
+            "Mar Adentro"
+        ],
+        "fm_final": [
+            "Hable con Ella",
+            "La Piel Que Habito",
+            "Todo Sobre Mi Madre",
+            "Volver",
+            "Hable con ella",
+            "Todo sobre mi madre",
+            "Abre los ojos",
+            "Mar adentro",
+            "Mar Adentro"
+        ],
+        "norm_final": [
+            "abre los ojos",
+            "hable con ella",
+            "la piel que habito",
+            "mar adentro",
+            "todo sobre mi madre",
+            "volver"
+        ],
+        "norm_final_without_original": [
+            "abre los ojos",
+            "hable con ella",
+            "mar adentro",
+            "todo sobre mi madre"
+        ],
+        "fm_orig_movieId": [
+            "5878",
+            "89118",
+            "3083",
+            "44694"
+        ],
+        "fm_only_added_movieId": [
+            "5878",
+            "3083",
+            "2594",
+            "27803",
+            "27803"
+        ],
+        "fm_final_movieId": [
+            "5878",
+            "89118",
+            "3083",
+            "44694",
+            "5878",
+            "3083",
+            "2594",
+            "27803",
+            "27803"
+        ]
+    },
+    "user21": {
+        "fm_orig": [
+            "Friends",
+            "Notting Hill",
+            "The Devil Wears Prada"
+        ],
+        "fm_added": [],
+        "fm_only_added": [],
+        "fm_final": [
+            "Friends",
+            "Notting Hill",
+            "The Devil Wears Prada"
+        ],
+        "norm_final": [
+            "friends",
+            "notting hill",
+            "the devil wears prada"
+        ],
+        "norm_final_without_original": [],
+        "fm_orig_movieId": [
+            "144980",
+            "2671",
+            "45720"
+        ],
+        "fm_only_added_movieId": [],
+        "fm_final_movieId": [
+            "144980",
+            "2671",
+            "45720"
+        ]
+    },
+    "user22": {
+        "fm_orig": [
+            "Breaking Bad",
+            "Inception",
+            "Pulp Fiction",
+            "The Shawshank Redemption"
+        ],
+        "fm_added": [
+            {
+                "title": "The Godfather",
+                "from_user": "user1006",
+                "similarity": 0.666667
+            },
+            {
+                "title": "Game of Thrones",
+                "from_user": "user1147",
+                "similarity": 0.5625
+            },
+            {
+                "title": "The Office",
+                "from_user": "user711",
+                "similarity": 0.5625
+            },
+            {
+                "title": "The Office (US)",
+                "from_user": "user690",
+                "similarity": 0.5625
+            },
+            {
+                "title": "The Lord of the Rings Trilogy",
+                "from_user": "user137",
+                "similarity": 0.529412
+            },
+            {
+                "title": "Interstellar",
+                "from_user": "user39",
+                "similarity": 0.5
+            },
+            {
+                "title": "The Dark Knight",
+                "from_user": "user415",
+                "similarity": 0.5
+            },
+            {
+                "title": "The Departed",
+                "from_user": "user1232",
+                "similarity": 0.470588
+            },
+            {
+                "title": "Top Gun: Maverick",
+                "from_user": "user1175",
+                "similarity": 0.470588
+            }
+        ],
+        "fm_only_added": [
+            "The Godfather",
+            "Game of Thrones",
+            "The Office",
+            "The Office (US)",
+            "The Lord of the Rings Trilogy",
+            "Interstellar",
+            "The Dark Knight",
+            "The Departed",
+            "Top Gun: Maverick"
+        ],
+        "fm_final": [
+            "Breaking Bad",
+            "Inception",
+            "Pulp Fiction",
+            "The Shawshank Redemption",
+            "The Godfather",
+            "Game of Thrones",
+            "The Office",
+            "The Office (US)",
+            "The Lord of the Rings Trilogy",
+            "Interstellar",
+            "The Dark Knight",
+            "The Departed",
+            "Top Gun: Maverick"
+        ],
+        "norm_final": [
+            "breaking bad",
+            "game of thrones",
+            "inception",
+            "interstellar",
+            "pulp fiction",
+            "the dark knight",
+            "the departed",
+            "the godfather",
+            "the lord of the rings trilogy",
+            "the office",
+            "the shawshank redemption",
+            "top gun maverick"
+        ],
+        "norm_final_without_original": [
+            "game of thrones",
+            "interstellar",
+            "the dark knight",
+            "the departed",
+            "the godfather",
+            "the lord of the rings trilogy",
+            "the office",
+            "top gun maverick"
+        ],
+        "fm_orig_movieId": [
+            "300079",
+            "79132",
+            "296",
+            "318"
+        ],
+        "fm_only_added_movieId": [
+            "300090",
+            "200950",
+            "136614",
+            "300065",
+            "300060",
+            "109487",
+            "130219",
+            "48516",
+            "274053"
+        ],
+        "fm_final_movieId": [
+            "300079",
+            "79132",
+            "296",
+            "318",
+            "300090",
+            "200950",
+            "136614",
+            "300065",
+            "300060",
+            "109487",
+            "130219",
+            "48516",
+            "274053"
+        ]
+    },
+    "user23": {
+        "fm_orig": [
+            "Lady Bird",
+            "Little Women",
+            "Normal People"
+        ],
+        "fm_added": [
+            {
+                "title": "Little Women (2019)",
+                "from_user": "user16",
+                "similarity": 0.818182
+            },
+            {
+                "title": "Booksmart",
+                "from_user": "user474",
+                "similarity": 0.666667
+            },
+            {
+                "title": "Call Me By Your Name",
+                "from_user": "user25",
+                "similarity": 0.666667
+            },
+            {
+                "title": "Dune",
+                "from_user": "user97",
+                "similarity": 0.666667
+            },
+            {
+                "title": "The Queen's Gambit",
+                "from_user": "user83",
+                "similarity": 0.538462
+            }
+        ],
+        "fm_only_added": [
+            "Little Women (2019)",
+            "Booksmart",
+            "Call Me By Your Name",
+            "Dune",
+            "The Queen's Gambit"
+        ],
+        "fm_final": [
+            "Lady Bird",
+            "Little Women",
+            "Normal People",
+            "Little Women (2019)",
+            "Booksmart",
+            "Call Me By Your Name",
+            "Dune",
+            "The Queen's Gambit"
+        ],
+        "norm_final": [
+            "booksmart",
+            "call me by your name",
+            "dune",
+            "lady bird",
+            "little women",
+            "normal people",
+            "the queens gambit"
+        ],
+        "norm_final_without_original": [
+            "booksmart",
+            "call me by your name",
+            "dune",
+            "little women",
+            "the queens gambit"
+        ],
+        "fm_orig_movieId": [
+            "177615",
+            "261",
+            "300035"
+        ],
+        "fm_only_added_movieId": [
+            "209315",
+            "200306",
+            "168492",
+            "2021",
+            "300092"
+        ],
+        "fm_final_movieId": [
+            "177615",
+            "261",
+            "300035",
+            "209315",
+            "200306",
+            "168492",
+            "2021",
+            "300092"
+        ]
+    },
+    "user24": {
+        "fm_orig": [
+            "Avengers: Endgame",
+            "Breaking Bad",
+            "The Wolf of Wall Street"
+        ],
+        "fm_added": [
+            {
+                "title": "Inception",
+                "from_user": "user101",
+                "similarity": 0.5
+            },
+            {
+                "title": "Rick and Morty",
+                "from_user": "user101",
+                "similarity": 0.5
+            }
+        ],
+        "fm_only_added": [
+            "Inception",
+            "Rick and Morty"
+        ],
+        "fm_final": [
+            "Avengers: Endgame",
+            "Breaking Bad",
+            "The Wolf of Wall Street",
+            "Inception",
+            "Rick and Morty"
+        ],
+        "norm_final": [
+            "avengers endgame",
+            "breaking bad",
+            "inception",
+            "rick and morty",
+            "the wolf of wall street"
+        ],
+        "norm_final_without_original": [
+            "inception",
+            "rick and morty"
+        ],
+        "fm_orig_movieId": [
+            "300000",
+            "300079",
+            "106782"
+        ],
+        "fm_only_added_movieId": [
+            "79132",
+            "175693"
+        ],
+        "fm_final_movieId": [
+            "300000",
+            "300079",
+            "106782",
+            "79132",
+            "175693"
+        ]
+    },
+    "user25": {
+        "fm_orig": [
+            "Call Me By Your Name",
+            "Lady Bird",
+            "Normal People"
+        ],
+        "fm_added": [
+            {
+                "title": "Little Women",
+                "from_user": "user23",
+                "similarity": 0.666667
+            },
+            {
+                "title": "Little Women (2019)",
+                "from_user": "user16",
+                "similarity": 0.666667
+            },
+            {
+                "title": "Bones and All",
+                "from_user": "user233",
+                "similarity": 0.538462
+            },
+            {
+                "title": "The Queen's Gambit",
+                "from_user": "user83",
+                "similarity": 0.538462
+            }
+        ],
+        "fm_only_added": [
+            "Little Women",
+            "Little Women (2019)",
+            "Bones and All",
+            "The Queen's Gambit"
+        ],
+        "fm_final": [
+            "Call Me By Your Name",
+            "Lady Bird",
+            "Normal People",
+            "Little Women",
+            "Little Women (2019)",
+            "Bones and All",
+            "The Queen's Gambit"
+        ],
+        "norm_final": [
+            "bones and all",
+            "call me by your name",
+            "lady bird",
+            "little women",
+            "normal people",
+            "the queens gambit"
+        ],
+        "norm_final_without_original": [
+            "bones and all",
+            "little women",
+            "the queens gambit"
+        ],
+        "fm_orig_movieId": [
+            "168492",
+            "177615",
+            "300035"
+        ],
+        "fm_only_added_movieId": [
+            "261",
+            "209315",
+            "261809",
+            "300092"
+        ],
+        "fm_final_movieId": [
+            "168492",
+            "177615",
+            "300035",
+            "261",
+            "209315",
+            "261809",
+            "300092"
+        ]
+    },
+    "user27": {
+        "fm_orig": [
+            "Abre los ojos",
+            "Mar adentro",
+            "Todo sobre mi madre",
+            "Volver"
+        ],
+        "fm_added": [
+            {
+                "title": "Hable con Ella",
+                "from_user": "user20",
+                "similarity": 0.714286
+            },
+            {
+                "title": "La Piel Que Habito",
+                "from_user": "user20",
+                "similarity": 0.714286
+            },
+            {
+                "title": "Todo Sobre Mi Madre",
+                "from_user": "user20",
+                "similarity": 0.714286
+            },
+            {
+                "title": "Hable con ella",
+                "from_user": "user89",
+                "similarity": 0.692308
+            },
+            {
+                "title": "Mar Adentro",
+                "from_user": "user33",
+                "similarity": 0.692308
+            }
+        ],
+        "fm_only_added": [
+            "Hable con Ella",
+            "La Piel Que Habito",
+            "Todo Sobre Mi Madre",
+            "Hable con ella",
+            "Mar Adentro"
+        ],
+        "fm_final": [
+            "Abre los ojos",
+            "Mar adentro",
+            "Todo sobre mi madre",
+            "Volver",
+            "Hable con Ella",
+            "La Piel Que Habito",
+            "Todo Sobre Mi Madre",
+            "Hable con ella",
+            "Mar Adentro"
+        ],
+        "norm_final": [
+            "abre los ojos",
+            "hable con ella",
+            "la piel que habito",
+            "mar adentro",
+            "todo sobre mi madre",
+            "volver"
+        ],
+        "norm_final_without_original": [
+            "hable con ella",
+            "la piel que habito",
+            "mar adentro",
+            "todo sobre mi madre"
+        ],
+        "fm_orig_movieId": [
+            "2594",
+            "27803",
+            "3083",
+            "44694"
+        ],
+        "fm_only_added_movieId": [
+            "5878",
+            "89118",
+            "3083",
+            "5878",
+            "27803"
+        ],
+        "fm_final_movieId": [
+            "2594",
+            "27803",
+            "3083",
+            "44694",
+            "5878",
+            "89118",
+            "3083",
+            "5878",
+            "27803"
+        ]
+    },
+    "user28": {
+        "fm_orig": [
+            "Pulp Fiction",
+            "The Avengers",
+            "Top Gun: Maverick"
+        ],
+        "fm_added": [
+            {
+                "title": "Wonder Woman",
+                "from_user": "user114",
+                "similarity": 0.666667
+            },
+            {
+                "title": "The Wolf of Wall Street",
+                "from_user": "user260",
+                "similarity": 0.538462
+            }
+        ],
+        "fm_only_added": [
+            "Wonder Woman",
+            "The Wolf of Wall Street"
+        ],
+        "fm_final": [
+            "Pulp Fiction",
+            "The Avengers",
+            "Top Gun: Maverick",
+            "Wonder Woman",
+            "The Wolf of Wall Street"
+        ],
+        "norm_final": [
+            "pulp fiction",
+            "the avengers",
+            "the wolf of wall street",
+            "top gun maverick",
+            "wonder woman"
+        ],
+        "norm_final_without_original": [
+            "the wolf of wall street",
+            "wonder woman"
+        ],
+        "fm_orig_movieId": [
+            "296",
+            "89745",
+            "274053"
+        ],
+        "fm_only_added_movieId": [
+            "143355",
+            "106782"
+        ],
+        "fm_final_movieId": [
+            "296",
+            "89745",
+            "274053",
+            "143355",
+            "106782"
+        ]
+    },
+    "user29": {
+        "fm_orig": [
+            "4 Months, 3 Weeks and 2 Days",
+            "Birdman",
+            "The Lives of Others"
+        ],
+        "fm_added": [],
+        "fm_only_added": [],
+        "fm_final": [
+            "4 Months, 3 Weeks and 2 Days",
+            "Birdman",
+            "The Lives of Others"
+        ],
+        "norm_final": [
+            "4 months 3 weeks and 2 days",
+            "birdman",
+            "the lives of others"
+        ],
+        "norm_final_without_original": [],
+        "fm_orig_movieId": [
+            "55069",
+            "112183",
+            "44555"
+        ],
+        "fm_only_added_movieId": [],
+        "fm_final_movieId": [
+            "55069",
+            "112183",
+            "44555"
+        ]
+    },
+    "user31": {
+        "fm_orig": [
+            "El laberinto del fauno",
+            "Hable con ella",
+            "La piel que habito"
+        ],
+        "fm_added": [
+            {
+                "title": "Pan's Labyrinth",
+                "from_user": "user38",
+                "similarity": 0.5
+            },
+            {
+                "title": "The Skin I Live In",
+                "from_user": "user38",
+                "similarity": 0.5
+            },
+            {
+                "title": "Volver",
+                "from_user": "user38",
+                "similarity": 0.5
+            }
+        ],
+        "fm_only_added": [
+            "Pan's Labyrinth",
+            "The Skin I Live In",
+            "Volver"
+        ],
+        "fm_final": [
+            "El laberinto del fauno",
+            "Hable con ella",
+            "La piel que habito",
+            "Pan's Labyrinth",
+            "The Skin I Live In",
+            "Volver"
+        ],
+        "norm_final": [
+            "el laberinto del fauno",
+            "hable con ella",
+            "la piel que habito",
+            "pans labyrinth",
+            "the skin i live in",
+            "volver"
+        ],
+        "norm_final_without_original": [
+            "pans labyrinth",
+            "the skin i live in",
+            "volver"
+        ],
+        "fm_orig_movieId": [
+            "48394",
+            "5878",
+            "89118"
+        ],
+        "fm_only_added_movieId": [
+            "48394",
+            "89118",
+            "44694"
+        ],
+        "fm_final_movieId": [
+            "48394",
+            "5878",
+            "89118",
+            "48394",
+            "89118",
+            "44694"
+        ]
+    },
+    "user32": {
+        "fm_orig": [
+            "Breaking Bad",
+            "Interstellar",
+            "Pulp Fiction"
+        ],
+        "fm_added": [
+            {
+                "title": "The Wolf of Wall Street",
+                "from_user": "user260",
+                "similarity": 0.538462
+            },
+            {
+                "title": "Top Gun: Maverick",
+                "from_user": "user260",
+                "similarity": 0.538462
+            }
+        ],
+        "fm_only_added": [
+            "The Wolf of Wall Street",
+            "Top Gun: Maverick"
+        ],
+        "fm_final": [
+            "Breaking Bad",
+            "Interstellar",
+            "Pulp Fiction",
+            "The Wolf of Wall Street",
+            "Top Gun: Maverick"
+        ],
+        "norm_final": [
+            "breaking bad",
+            "interstellar",
+            "pulp fiction",
+            "the wolf of wall street",
+            "top gun maverick"
+        ],
+        "norm_final_without_original": [
+            "the wolf of wall street",
+            "top gun maverick"
+        ],
+        "fm_orig_movieId": [
+            "300079",
+            "109487",
+            "296"
+        ],
+        "fm_only_added_movieId": [
+            "106782",
+            "274053"
+        ],
+        "fm_final_movieId": [
+            "300079",
+            "109487",
+            "296",
+            "106782",
+            "274053"
+        ]
+    },
+    "user33": {
+        "fm_orig": [
+            "Mar Adentro",
+            "Todo Sobre Mi Madre",
+            "Volver"
+        ],
+        "fm_added": [
+            {
+                "title": "Abre los ojos",
+                "from_user": "user27",
+                "similarity": 0.692308
+            },
+            {
+                "title": "Mar adentro",
+                "from_user": "user27",
+                "similarity": 0.692308
+            },
+            {
+                "title": "Todo sobre mi madre",
+                "from_user": "user27",
+                "similarity": 0.692308
+            },
+            {
+                "title": "Hable con Ella",
+                "from_user": "user20",
+                "similarity": 0.571429
+            },
+            {
+                "title": "La Piel Que Habito",
+                "from_user": "user20",
+                "similarity": 0.571429
+            },
+            {
+                "title": "Hable con ella",
+                "from_user": "user89",
+                "similarity": 0.538462
+            }
+        ],
+        "fm_only_added": [
+            "Abre los ojos",
+            "Mar adentro",
+            "Todo sobre mi madre",
+            "Hable con Ella",
+            "La Piel Que Habito",
+            "Hable con ella"
+        ],
+        "fm_final": [
+            "Mar Adentro",
+            "Todo Sobre Mi Madre",
+            "Volver",
+            "Abre los ojos",
+            "Mar adentro",
+            "Todo sobre mi madre",
+            "Hable con Ella",
+            "La Piel Que Habito",
+            "Hable con ella"
+        ],
+        "norm_final": [
+            "abre los ojos",
+            "hable con ella",
+            "la piel que habito",
+            "mar adentro",
+            "todo sobre mi madre",
+            "volver"
+        ],
+        "norm_final_without_original": [
+            "abre los ojos",
+            "hable con ella",
+            "la piel que habito",
+            "mar adentro",
+            "todo sobre mi madre"
+        ],
+        "fm_orig_movieId": [
+            "27803",
+            "3083",
+            "44694"
+        ],
+        "fm_only_added_movieId": [
+            "2594",
+            "27803",
+            "3083",
+            "5878",
+            "89118",
+            "5878"
+        ],
+        "fm_final_movieId": [
+            "27803",
+            "3083",
+            "44694",
+            "2594",
+            "27803",
+            "3083",
+            "5878",
+            "89118",
+            "5878"
+        ]
+    },
+    "user34": {
+        "fm_orig": [
+            "Hable con ella",
+            "Todo sobre mi madre",
+            "Volver"
+        ],
+        "fm_added": [
+            {
+                "title": "Abre los ojos",
+                "from_user": "user48",
+                "similarity": 0.642857
+            },
+            {
+                "title": "Mar adentro",
+                "from_user": "user48",
+                "similarity": 0.642857
+            },
+            {
+                "title": "Hable con Ella",
+                "from_user": "user82",
+                "similarity": 0.583333
+            },
+            {
+                "title": "Todo Sobre Mi Madre",
+                "from_user": "user82",
+                "similarity": 0.583333
+            },
+            {
+                "title": "La Piel Que Habito",
+                "from_user": "user20",
+                "similarity": 0.571429
+            }
+        ],
+        "fm_only_added": [
+            "Abre los ojos",
+            "Mar adentro",
+            "Hable con Ella",
+            "Todo Sobre Mi Madre",
+            "La Piel Que Habito"
+        ],
+        "fm_final": [
+            "Hable con ella",
+            "Todo sobre mi madre",
+            "Volver",
+            "Abre los ojos",
+            "Mar adentro",
+            "Hable con Ella",
+            "Todo Sobre Mi Madre",
+            "La Piel Que Habito"
+        ],
+        "norm_final": [
+            "abre los ojos",
+            "hable con ella",
+            "la piel que habito",
+            "mar adentro",
+            "todo sobre mi madre",
+            "volver"
+        ],
+        "norm_final_without_original": [
+            "abre los ojos",
+            "hable con ella",
+            "la piel que habito",
+            "mar adentro",
+            "todo sobre mi madre"
+        ],
+        "fm_orig_movieId": [
+            "5878",
+            "3083",
+            "44694"
+        ],
+        "fm_only_added_movieId": [
+            "2594",
+            "27803",
+            "5878",
+            "3083",
+            "89118"
+        ],
+        "fm_final_movieId": [
+            "5878",
+            "3083",
+            "44694",
+            "2594",
+            "27803",
+            "5878",
+            "3083",
+            "89118"
+        ]
+    },
+    "user35": {
+        "fm_orig": [
+            "Normal People",
+            "Room",
+            "The Wind That Shakes the Barley"
+        ],
+        "fm_added": [],
+        "fm_only_added": [],
+        "fm_final": [
+            "Normal People",
+            "Room",
+            "The Wind That Shakes the Barley"
+        ],
+        "norm_final": [
+            "normal people",
+            "room",
+            "the wind that shakes the barley"
+        ],
+        "norm_final_without_original": [],
+        "fm_orig_movieId": [
+            "300035",
+            "140174",
+            "47894"
+        ],
+        "fm_only_added_movieId": [],
+        "fm_final_movieId": [
+            "300035",
+            "140174",
+            "47894"
+        ]
+    },
+    "user36": {
+        "fm_orig": [
+            "Brooklyn",
+            "Calvary",
+            "Room",
+            "The Banshees of Inisherin"
+        ],
+        "fm_added": [],
+        "fm_only_added": [],
+        "fm_final": [
+            "Brooklyn",
+            "Calvary",
+            "Room",
+            "The Banshees of Inisherin"
+        ],
+        "norm_final": [
+            "brooklyn",
+            "calvary",
+            "room",
+            "the banshees of inisherin"
+        ],
+        "norm_final_without_original": [],
+        "fm_orig_movieId": [
+            "300080",
+            "110586",
+            "140174",
+            "278446"
+        ],
+        "fm_only_added_movieId": [],
+        "fm_final_movieId": [
+            "300080",
+            "110586",
+            "140174",
+            "278446"
+        ]
+    },
+    "user37": {
+        "fm_orig": [
+            "Spider-Man: No Way Home",
+            "Stranger Things",
+            "Thor: Ragnarok"
+        ],
+        "fm_added": [
+            {
+                "title": "Inception",
+                "from_user": "user581",
+                "similarity": 0.583333
+            },
+            {
+                "title": "Everything Everywhere All At Once",
+                "from_user": "user594",
+                "similarity": 0.571429
+            },
+            {
+                "title": "Get Out",
+                "from_user": "user594",
+                "similarity": 0.571429
+            },
+            {
+                "title": "The Guardians of the Galaxy",
+                "from_user": "user853",
+                "similarity": 0.571429
+            },
+            {
+                "title": "The Suicide Squad",
+                "from_user": "user853",
+                "similarity": 0.571429
+            },
+            {
+                "title": "Avengers: Endgame",
+                "from_user": "user95",
+                "similarity": 0.538462
+            },
+            {
+                "title": "Guardians of the Galaxy",
+                "from_user": "user95",
+                "similarity": 0.538462
+            },
+            {
+                "title": "Jurassic World",
+                "from_user": "user261",
+                "similarity": 0.538462
+            },
+            {
+                "title": "The Martian",
+                "from_user": "user261",
+                "similarity": 0.538462
+            },
+            {
+                "title": "Rick and Morty",
+                "from_user": "user914",
+                "similarity": 0.533333
+            },
+            {
+                "title": "The Avengers",
+                "from_user": "user843",
+                "similarity": 0.5
+            },
+            {
+                "title": "The Grand Budapest Hotel",
+                "from_user": "user204",
+                "similarity": 0.5
+            },
+            {
+                "title": "The Mandalorian",
+                "from_user": "user877",
+                "similarity": 0.5
+            }
+        ],
+        "fm_only_added": [
+            "Inception",
+            "Everything Everywhere All At Once",
+            "Get Out",
+            "The Guardians of the Galaxy",
+            "The Suicide Squad",
+            "Avengers: Endgame",
+            "Guardians of the Galaxy",
+            "Jurassic World",
+            "The Martian",
+            "Rick and Morty",
+            "The Avengers",
+            "The Grand Budapest Hotel",
+            "The Mandalorian"
+        ],
+        "fm_final": [
+            "Spider-Man: No Way Home",
+            "Stranger Things",
+            "Thor: Ragnarok",
+            "Inception",
+            "Everything Everywhere All At Once",
+            "Get Out",
+            "The Guardians of the Galaxy",
+            "The Suicide Squad",
+            "Avengers: Endgame",
+            "Guardians of the Galaxy",
+            "Jurassic World",
+            "The Martian",
+            "Rick and Morty",
+            "The Avengers",
+            "The Grand Budapest Hotel",
+            "The Mandalorian"
+        ],
+        "norm_final": [
+            "avengers endgame",
+            "everything everywhere all at once",
+            "get out",
+            "guardians of the galaxy",
+            "inception",
+            "jurassic world",
+            "rick and morty",
+            "spiderman no way home",
+            "stranger things",
+            "the avengers",
+            "the grand budapest hotel",
+            "the guardians of the galaxy",
+            "the mandalorian",
+            "the martian",
+            "the suicide squad",
+            "thor ragnarok"
+        ],
+        "norm_final_without_original": [
+            "avengers endgame",
+            "everything everywhere all at once",
+            "get out",
+            "guardians of the galaxy",
+            "inception",
+            "jurassic world",
+            "rick and morty",
+            "the avengers",
+            "the grand budapest hotel",
+            "the guardians of the galaxy",
+            "the mandalorian",
+            "the martian",
+            "the suicide squad"
+        ],
+        "fm_orig_movieId": [
+            "263007",
+            "261135",
+            "122916"
+        ],
+        "fm_only_added_movieId": [
+            "79132",
+            "270698",
+            "168250",
+            "112852",
+            "251086",
+            "300000",
+            "112852",
+            "117529",
+            "134130",
+            "175693",
+            "89745",
+            "109374",
+            "300061"
+        ],
+        "fm_final_movieId": [
+            "263007",
+            "261135",
+            "122916",
+            "79132",
+            "270698",
+            "168250",
+            "112852",
+            "251086",
+            "300000",
+            "112852",
+            "117529",
+            "134130",
+            "175693",
+            "89745",
+            "109374",
+            "300061"
+        ]
+    },
+    "user38": {
+        "fm_orig": [
+            "Pan's Labyrinth",
+            "The Skin I Live In",
+            "Volver"
+        ],
+        "fm_added": [
+            {
+                "title": "The Sea Inside",
+                "from_user": "user46",
+                "similarity": 0.692308
+            },
+            {
+                "title": "El laberinto del fauno",
+                "from_user": "user31",
+                "similarity": 0.5
+            },
+            {
+                "title": "Hable con ella",
+                "from_user": "user31",
+                "similarity": 0.5
+            },
+            {
+                "title": "La piel que habito",
+                "from_user": "user31",
+                "similarity": 0.5
+            }
+        ],
+        "fm_only_added": [
+            "The Sea Inside",
+            "El laberinto del fauno",
+            "Hable con ella",
+            "La piel que habito"
+        ],
+        "fm_final": [
+            "Pan's Labyrinth",
+            "The Skin I Live In",
+            "Volver",
+            "The Sea Inside",
+            "El laberinto del fauno",
+            "Hable con ella",
+            "La piel que habito"
+        ],
+        "norm_final": [
+            "el laberinto del fauno",
+            "hable con ella",
+            "la piel que habito",
+            "pans labyrinth",
+            "the sea inside",
+            "the skin i live in",
+            "volver"
+        ],
+        "norm_final_without_original": [
+            "el laberinto del fauno",
+            "hable con ella",
+            "la piel que habito",
+            "the sea inside"
+        ],
+        "fm_orig_movieId": [
+            "48394",
+            "89118",
+            "44694"
+        ],
+        "fm_only_added_movieId": [
+            "27803",
+            "48394",
+            "5878",
+            "89118"
+        ],
+        "fm_final_movieId": [
+            "48394",
+            "89118",
+            "44694",
+            "27803",
+            "48394",
+            "5878",
+            "89118"
+        ]
+    },
+    "user39": {
+        "fm_orig": [
+            "Breaking Bad",
+            "Game of Thrones",
+            "Interstellar",
+            "The Lord of the Rings Trilogy"
+        ],
+        "fm_added": [
+            {
+                "title": "The Queen's Gambit",
+                "from_user": "user907",
+                "similarity": 0.625
+            },
+            {
+                "title": "Planet Earth",
+                "from_user": "user288",
+                "similarity": 0.588235
+            },
+            {
+                "title": "The Lord of the Rings trilogy",
+                "from_user": "user288",
+                "similarity": 0.588235
+            },
+            {
+                "title": "Inception",
+                "from_user": "user1147",
+                "similarity": 0.529412
+            },
+            {
+                "title": "The Shawshank Redemption",
+                "from_user": "user1147",
+                "similarity": 0.529412
+            },
+            {
+                "title": "Pulp Fiction",
+                "from_user": "user22",
+                "similarity": 0.5
+            },
+            {
+                "title": "The Martian",
+                "from_user": "user475",
+                "similarity": 0.5
+            },
+            {
+                "title": "Arrival",
+                "from_user": "user173",
+                "similarity": 0.470588
+            }
+        ],
+        "fm_only_added": [
+            "The Queen's Gambit",
+            "Planet Earth",
+            "The Lord of the Rings trilogy",
+            "Inception",
+            "The Shawshank Redemption",
+            "Pulp Fiction",
+            "The Martian",
+            "Arrival"
+        ],
+        "fm_final": [
+            "Breaking Bad",
+            "Game of Thrones",
+            "Interstellar",
+            "The Lord of the Rings Trilogy",
+            "The Queen's Gambit",
+            "Planet Earth",
+            "The Lord of the Rings trilogy",
+            "Inception",
+            "The Shawshank Redemption",
+            "Pulp Fiction",
+            "The Martian",
+            "Arrival"
+        ],
+        "norm_final": [
+            "arrival",
+            "breaking bad",
+            "game of thrones",
+            "inception",
+            "interstellar",
+            "planet earth",
+            "pulp fiction",
+            "the lord of the rings trilogy",
+            "the martian",
+            "the queens gambit",
+            "the shawshank redemption"
+        ],
+        "norm_final_without_original": [
+            "arrival",
+            "inception",
+            "planet earth",
+            "pulp fiction",
+            "the lord of the rings trilogy",
+            "the martian",
+            "the queens gambit",
+            "the shawshank redemption"
+        ],
+        "fm_orig_movieId": [
+            "300079",
+            "200950",
+            "109487",
+            "300060"
+        ],
+        "fm_only_added_movieId": [
+            "300092",
+            "159817",
+            "300060",
+            "79132",
+            "318",
+            "296",
+            "134130",
+            "164179"
+        ],
+        "fm_final_movieId": [
+            "300079",
+            "200950",
+            "109487",
+            "300060",
+            "300092",
+            "159817",
+            "300060",
+            "79132",
+            "318",
+            "296",
+            "134130",
+            "164179"
+        ]
+    },
+    "user41": {
+        "fm_orig": [
+            "Pan's Labyrinth",
+            "The Skin I Live In",
+            "Volver"
+        ],
+        "fm_added": [
+            {
+                "title": "The Sea Inside",
+                "from_user": "user46",
+                "similarity": 0.692308
+            }
+        ],
+        "fm_only_added": [
+            "The Sea Inside"
+        ],
+        "fm_final": [
+            "Pan's Labyrinth",
+            "The Skin I Live In",
+            "Volver",
+            "The Sea Inside"
+        ],
+        "norm_final": [
+            "pans labyrinth",
+            "the sea inside",
+            "the skin i live in",
+            "volver"
+        ],
+        "norm_final_without_original": [
+            "the sea inside"
+        ],
+        "fm_orig_movieId": [
+            "48394",
+            "89118",
+            "44694"
+        ],
+        "fm_only_added_movieId": [
+            "27803"
+        ],
+        "fm_final_movieId": [
+            "48394",
+            "89118",
+            "44694",
+            "27803"
+        ]
+    },
+    "user42": {
+        "fm_orig": [
+            "Kon-Tiki",
+            "Occupied",
+            "The Wave"
+        ],
+        "fm_added": [],
+        "fm_only_added": [],
+        "fm_final": [
+            "Kon-Tiki",
+            "Occupied",
+            "The Wave"
+        ],
+        "norm_final": [
+            "kontiki",
+            "occupied",
+            "the wave"
+        ],
+        "norm_final_without_original": [],
+        "fm_orig_movieId": [
+            "97057",
+            "164445",
+            "212180"
+        ],
+        "fm_only_added_movieId": [],
+        "fm_final_movieId": [
+            "97057",
+            "164445",
+            "212180"
+        ]
+    },
+    "user44": {
+        "fm_orig": [
+            "Arrival",
+            "The Handmaid's Tale",
+            "Uncle Boonmee Who Can Recall His Past Lives"
+        ],
+        "fm_added": [
+            {
+                "title": "Parasite",
+                "from_user": "user76",
+                "similarity": 0.642857
+            }
+        ],
+        "fm_only_added": [
+            "Parasite"
+        ],
+        "fm_final": [
+            "Arrival",
+            "The Handmaid's Tale",
+            "Uncle Boonmee Who Can Recall His Past Lives",
+            "Parasite"
+        ],
+        "norm_final": [
+            "arrival",
+            "parasite",
+            "the handmaids tale",
+            "uncle boonmee who can recall his past lives"
+        ],
+        "norm_final_without_original": [
+            "parasite"
+        ],
+        "fm_orig_movieId": [
+            "164179",
+            "6678",
+            "81751"
+        ],
+        "fm_only_added_movieId": [
+            "2256"
+        ],
+        "fm_final_movieId": [
+            "164179",
+            "6678",
+            "81751",
+            "2256"
+        ]
+    },
+    "user45": {
+        "fm_orig": [
+            "Hable con ella",
+            "Todo sobre mi madre",
+            "Volver"
+        ],
+        "fm_added": [
+            {
+                "title": "Hable con Ella",
+                "from_user": "user82",
+                "similarity": 0.583333
+            },
+            {
+                "title": "Todo Sobre Mi Madre",
+                "from_user": "user82",
+                "similarity": 0.583333
+            },
+            {
+                "title": "La Piel Que Habito",
+                "from_user": "user20",
+                "similarity": 0.571429
+            },
+            {
+                "title": "Abre los ojos",
+                "from_user": "user48",
+                "similarity": 0.533333
+            },
+            {
+                "title": "Mar adentro",
+                "from_user": "user48",
+                "similarity": 0.533333
+            }
+        ],
+        "fm_only_added": [
+            "Hable con Ella",
+            "Todo Sobre Mi Madre",
+            "La Piel Que Habito",
+            "Abre los ojos",
+            "Mar adentro"
+        ],
+        "fm_final": [
+            "Hable con ella",
+            "Todo sobre mi madre",
+            "Volver",
+            "Hable con Ella",
+            "Todo Sobre Mi Madre",
+            "La Piel Que Habito",
+            "Abre los ojos",
+            "Mar adentro"
+        ],
+        "norm_final": [
+            "abre los ojos",
+            "hable con ella",
+            "la piel que habito",
+            "mar adentro",
+            "todo sobre mi madre",
+            "volver"
+        ],
+        "norm_final_without_original": [
+            "abre los ojos",
+            "hable con ella",
+            "la piel que habito",
+            "mar adentro",
+            "todo sobre mi madre"
+        ],
+        "fm_orig_movieId": [
+            "5878",
+            "3083",
+            "44694"
+        ],
+        "fm_only_added_movieId": [
+            "5878",
+            "3083",
+            "89118",
+            "2594",
+            "27803"
+        ],
+        "fm_final_movieId": [
+            "5878",
+            "3083",
+            "44694",
+            "5878",
+            "3083",
+            "89118",
+            "2594",
+            "27803"
+        ]
+    },
+    "user46": {
+        "fm_orig": [
+            "Pan's Labyrinth",
+            "The Sea Inside",
+            "The Skin I Live In",
+            "Volver"
+        ],
+        "fm_added": [],
+        "fm_only_added": [],
+        "fm_final": [
+            "Pan's Labyrinth",
+            "The Sea Inside",
+            "The Skin I Live In",
+            "Volver"
+        ],
+        "norm_final": [
+            "pans labyrinth",
+            "the sea inside",
+            "the skin i live in",
+            "volver"
+        ],
+        "norm_final_without_original": [],
+        "fm_orig_movieId": [
+            "48394",
+            "27803",
+            "89118",
+            "44694"
+        ],
+        "fm_only_added_movieId": [],
+        "fm_final_movieId": [
+            "48394",
+            "27803",
+            "89118",
+            "44694"
+        ]
+    },
+    "user47": {
+        "fm_orig": [
+            "El Laberinto del Fauno",
+            "Todo Sobre Mi Madre",
+            "Volver"
+        ],
+        "fm_added": [
+            {
+                "title": "Hable con Ella",
+                "from_user": "user82",
+                "similarity": 0.583333
+            }
+        ],
+        "fm_only_added": [
+            "Hable con Ella"
+        ],
+        "fm_final": [
+            "El Laberinto del Fauno",
+            "Todo Sobre Mi Madre",
+            "Volver",
+            "Hable con Ella"
+        ],
+        "norm_final": [
+            "el laberinto del fauno",
+            "hable con ella",
+            "todo sobre mi madre",
+            "volver"
+        ],
+        "norm_final_without_original": [
+            "hable con ella"
+        ],
+        "fm_orig_movieId": [
+            "48394",
+            "3083",
+            "44694"
+        ],
+        "fm_only_added_movieId": [
+            "5878"
+        ],
+        "fm_final_movieId": [
+            "48394",
+            "3083",
+            "44694",
+            "5878"
+        ]
+    },
+    "user48": {
+        "fm_orig": [
+            "Abre los ojos",
+            "Mar adentro",
+            "Todo sobre mi madre",
+            "Volver"
+        ],
+        "fm_added": [
+            {
+                "title": "Hable con ella",
+                "from_user": "user34",
+                "similarity": 0.642857
+            },
+            {
+                "title": "Mar Adentro",
+                "from_user": "user33",
+                "similarity": 0.642857
+            },
+            {
+                "title": "Todo Sobre Mi Madre",
+                "from_user": "user33",
+                "similarity": 0.642857
+            },
+            {
+                "title": "Hable con Ella",
+                "from_user": "user20",
+                "similarity": 0.5625
+            },
+            {
+                "title": "La Piel Que Habito",
+                "from_user": "user20",
+                "similarity": 0.5625
+            }
+        ],
+        "fm_only_added": [
+            "Hable con ella",
+            "Mar Adentro",
+            "Todo Sobre Mi Madre",
+            "Hable con Ella",
+            "La Piel Que Habito"
+        ],
+        "fm_final": [
+            "Abre los ojos",
+            "Mar adentro",
+            "Todo sobre mi madre",
+            "Volver",
+            "Hable con ella",
+            "Mar Adentro",
+            "Todo Sobre Mi Madre",
+            "Hable con Ella",
+            "La Piel Que Habito"
+        ],
+        "norm_final": [
+            "abre los ojos",
+            "hable con ella",
+            "la piel que habito",
+            "mar adentro",
+            "todo sobre mi madre",
+            "volver"
+        ],
+        "norm_final_without_original": [
+            "hable con ella",
+            "la piel que habito",
+            "mar adentro",
+            "todo sobre mi madre"
+        ],
+        "fm_orig_movieId": [
+            "2594",
+            "27803",
+            "3083",
+            "44694"
+        ],
+        "fm_only_added_movieId": [
+            "5878",
+            "27803",
+            "3083",
+            "5878",
+            "89118"
+        ],
+        "fm_final_movieId": [
+            "2594",
+            "27803",
+            "3083",
+            "44694",
+            "5878",
+            "27803",
+            "3083",
+            "5878",
+            "89118"
+        ]
+    },
+    "user52": {
+        "fm_orig": [
+            "Inception",
+            "Mr. Robot",
+            "Oldboy",
+            "Snowpiercer",
+            "The Dark Knight Trilogy"
+        ],
+        "fm_added": [],
+        "fm_only_added": [],
+        "fm_final": [
+            "Inception",
+            "Mr. Robot",
+            "Oldboy",
+            "Snowpiercer",
+            "The Dark Knight Trilogy"
+        ],
+        "norm_final": [
+            "inception",
+            "mr robot",
+            "oldboy",
+            "snowpiercer",
+            "the dark knight trilogy"
+        ],
+        "norm_final_without_original": [],
+        "fm_orig_movieId": [
+            "79132",
+            "300031",
+            "107314",
+            "107406",
+            "300087"
+        ],
+        "fm_only_added_movieId": [],
+        "fm_final_movieId": [
+            "79132",
+            "300031",
+            "107314",
+            "107406",
+            "300087"
+        ]
+    },
+    "user53": {
+        "fm_orig": [
+            "In the Name of the Father",
+            "Michael Collins",
+            "Schindler's List",
+            "The Wind That Shakes the Barley"
+        ],
+        "fm_added": [],
+        "fm_only_added": [],
+        "fm_final": [
+            "In the Name of the Father",
+            "Michael Collins",
+            "Schindler's List",
+            "The Wind That Shakes the Barley"
+        ],
+        "norm_final": [
+            "in the name of the father",
+            "michael collins",
+            "schindlers list",
+            "the wind that shakes the barley"
+        ],
+        "norm_final_without_original": [],
+        "fm_orig_movieId": [
+            "475",
+            "991",
+            "527",
+            "47894"
+        ],
+        "fm_only_added_movieId": [],
+        "fm_final_movieId": [
+            "475",
+            "991",
+            "527",
+            "47894"
+        ]
+    },
+    "user54": {
+        "fm_orig": [
+            "Downton Abbey",
+            "Planet Earth",
+            "Schindler's List",
+            "The Crown",
+            "Wings of Desire"
+        ],
+        "fm_added": [
+            {
+                "title": "The Revenant",
+                "from_user": "user329",
+                "similarity": 0.529412
+            },
+            {
+                "title": "Band of Brothers",
+                "from_user": "user412",
+                "similarity": 0.5
+            },
+            {
+                "title": "Pride and Prejudice",
+                "from_user": "user70",
+                "similarity": 0.473684
+            }
+        ],
+        "fm_only_added": [
+            "The Revenant",
+            "Band of Brothers",
+            "Pride and Prejudice"
+        ],
+        "fm_final": [
+            "Downton Abbey",
+            "Planet Earth",
+            "Schindler's List",
+            "The Crown",
+            "Wings of Desire",
+            "The Revenant",
+            "Band of Brothers",
+            "Pride and Prejudice"
+        ],
+        "norm_final": [
+            "band of brothers",
+            "downton abbey",
+            "planet earth",
+            "pride and prejudice",
+            "schindlers list",
+            "the crown",
+            "the revenant",
+            "wings of desire"
+        ],
+        "norm_final_without_original": [
+            "band of brothers",
+            "pride and prejudice",
+            "the revenant"
+        ],
+        "fm_orig_movieId": [
+            "205076",
+            "159817",
+            "527",
+            "300086",
+            "1211"
+        ],
+        "fm_only_added_movieId": [
+            "139385",
+            "170705",
+            "7579"
+        ],
+        "fm_final_movieId": [
+            "205076",
+            "159817",
+            "527",
+            "300086",
+            "1211",
+            "139385",
+            "170705",
+            "7579"
+        ]
+    },
+    "user56": {
+        "fm_orig": [
+            "Dune",
+            "Lady Bird",
+            "Parasite",
+            "The Lord of the Rings trilogy"
+        ],
+        "fm_added": [
+            {
+                "title": "Everything Everywhere All at Once",
+                "from_user": "user85",
+                "similarity": 0.470588
+            },
+            {
+                "title": "Little Women (2019)",
+                "from_user": "user85",
+                "similarity": 0.470588
+            }
+        ],
+        "fm_only_added": [
+            "Everything Everywhere All at Once",
+            "Little Women (2019)"
+        ],
+        "fm_final": [
+            "Dune",
+            "Lady Bird",
+            "Parasite",
+            "The Lord of the Rings trilogy",
+            "Everything Everywhere All at Once",
+            "Little Women (2019)"
+        ],
+        "norm_final": [
+            "dune",
+            "everything everywhere all at once",
+            "lady bird",
+            "little women",
+            "parasite",
+            "the lord of the rings trilogy"
+        ],
+        "norm_final_without_original": [
+            "everything everywhere all at once",
+            "little women"
+        ],
+        "fm_orig_movieId": [
+            "2021",
+            "177615",
+            "2256",
+            "300060"
+        ],
+        "fm_only_added_movieId": [
+            "270698",
+            "209315"
+        ],
+        "fm_final_movieId": [
+            "2021",
+            "177615",
+            "2256",
+            "300060",
+            "270698",
+            "209315"
+        ]
+    },
+    "user57": {
+        "fm_orig": [
+            "Avengers: Endgame",
+            "The Martian",
+            "Thor: Ragnarok"
+        ],
+        "fm_added": [
+            {
+                "title": "Deadpool",
+                "from_user": "user348",
+                "similarity": 0.666667
+            },
+            {
+                "title": "Guardians of the Galaxy",
+                "from_user": "user95",
+                "similarity": 0.666667
+            },
+            {
+                "title": "The Avengers",
+                "from_user": "user177",
+                "similarity": 0.666667
+            },
+            {
+                "title": "Rick and Morty",
+                "from_user": "user1034",
+                "similarity": 0.642857
+            },
+            {
+                "title": "The Grand Budapest Hotel",
+                "from_user": "user1034",
+                "similarity": 0.642857
+            },
+            {
+                "title": "Spider-Man: No Way Home",
+                "from_user": "user877",
+                "similarity": 0.615385
+            },
+            {
+                "title": "The Mandalorian",
+                "from_user": "user877",
+                "similarity": 0.615385
+            },
+            {
+                "title": "Black Panther",
+                "from_user": "user1096",
+                "similarity": 0.571429
+            },
+            {
+                "title": "Interstellar",
+                "from_user": "user1096",
+                "similarity": 0.571429
+            },
+            {
+                "title": "Flight of the Conchords",
+                "from_user": "user364",
+                "similarity": 0.538462
+            },
+            {
+                "title": "Jurassic World",
+                "from_user": "user261",
+                "similarity": 0.538462
+            },
+            {
+                "title": "The Hitchhiker's Guide to the Galaxy",
+                "from_user": "user420",
+                "similarity": 0.538462
+            },
+            {
+                "title": "The Lego Movie",
+                "from_user": "user365",
+                "similarity": 0.538462
+            },
+            {
+                "title": "What We Do in the Shadows",
+                "from_user": "user364",
+                "similarity": 0.538462
+            },
+            {
+                "title": "BoJack Horseman",
+                "from_user": "user232",
+                "similarity": 0.533333
+            },
+            {
+                "title": "The Lord of the Rings Trilogy",
+                "from_user": "user277",
+                "similarity": 0.533333
+            },
+            {
+                "title": "Avatar",
+                "from_user": "user371",
+                "similarity": 0.5
+            },
+            {
+                "title": "The Lord of the Rings trilogy",
+                "from_user": "user371",
+                "similarity": 0.5
+            },
+            {
+                "title": "The Suicide Squad",
+                "from_user": "user1103",
+                "similarity": 0.5
+            },
+            {
+                "title": "Stranger Things",
+                "from_user": "user193",
+                "similarity": 0.470588
+            }
+        ],
+        "fm_only_added": [
+            "Deadpool",
+            "Guardians of the Galaxy",
+            "The Avengers",
+            "Rick and Morty",
+            "The Grand Budapest Hotel",
+            "Spider-Man: No Way Home",
+            "The Mandalorian",
+            "Black Panther",
+            "Interstellar",
+            "Flight of the Conchords",
+            "Jurassic World",
+            "The Hitchhiker's Guide to the Galaxy",
+            "The Lego Movie",
+            "What We Do in the Shadows",
+            "BoJack Horseman",
+            "The Lord of the Rings Trilogy",
+            "Avatar",
+            "The Lord of the Rings trilogy",
+            "The Suicide Squad",
+            "Stranger Things"
+        ],
+        "fm_final": [
+            "Avengers: Endgame",
+            "The Martian",
+            "Thor: Ragnarok",
+            "Deadpool",
+            "Guardians of the Galaxy",
+            "The Avengers",
+            "Rick and Morty",
+            "The Grand Budapest Hotel",
+            "Spider-Man: No Way Home",
+            "The Mandalorian",
+            "Black Panther",
+            "Interstellar",
+            "Flight of the Conchords",
+            "Jurassic World",
+            "The Hitchhiker's Guide to the Galaxy",
+            "The Lego Movie",
+            "What We Do in the Shadows",
+            "BoJack Horseman",
+            "The Lord of the Rings Trilogy",
+            "Avatar",
+            "The Lord of the Rings trilogy",
+            "The Suicide Squad",
+            "Stranger Things"
+        ],
+        "norm_final": [
+            "avatar",
+            "avengers endgame",
+            "black panther",
+            "bojack horseman",
+            "deadpool",
+            "flight of the conchords",
+            "guardians of the galaxy",
+            "interstellar",
+            "jurassic world",
+            "rick and morty",
+            "spiderman no way home",
+            "stranger things",
+            "the avengers",
+            "the grand budapest hotel",
+            "the hitchhikers guide to the galaxy",
+            "the lego movie",
+            "the lord of the rings trilogy",
+            "the mandalorian",
+            "the martian",
+            "the suicide squad",
+            "thor ragnarok",
+            "what we do in the shadows"
+        ],
+        "norm_final_without_original": [
+            "avatar",
+            "black panther",
+            "bojack horseman",
+            "deadpool",
+            "flight of the conchords",
+            "guardians of the galaxy",
+            "interstellar",
+            "jurassic world",
+            "rick and morty",
+            "spiderman no way home",
+            "stranger things",
+            "the avengers",
+            "the grand budapest hotel",
+            "the hitchhikers guide to the galaxy",
+            "the lego movie",
+            "the lord of the rings trilogy",
+            "the mandalorian",
+            "the suicide squad",
+            "what we do in the shadows"
+        ],
+        "fm_orig_movieId": [
+            "300000",
+            "134130",
+            "122916"
+        ],
+        "fm_only_added_movieId": [
+            "122904",
+            "112852",
+            "89745",
+            "175693",
+            "109374",
+            "263007",
+            "300061",
+            "122906",
+            "109487",
+            "104317",
+            "117529",
+            "33004",
+            "108932",
+            "115122",
+            "300077",
+            "300060",
+            "72998",
+            "300060",
+            "251086",
+            "261135"
+        ],
+        "fm_final_movieId": [
+            "300000",
+            "134130",
+            "122916",
+            "122904",
+            "112852",
+            "89745",
+            "175693",
+            "109374",
+            "263007",
+            "300061",
+            "122906",
+            "109487",
+            "104317",
+            "117529",
+            "33004",
+            "108932",
+            "115122",
+            "300077",
+            "300060",
+            "72998",
+            "300060",
+            "251086",
+            "261135"
+        ]
+    },
+    "user58": {
+        "fm_orig": [
+            "Downton Abbey",
+            "Peaky Blinders",
+            "The Lives of Others",
+            "The Sopranos",
+            "Thelma & Louise"
+        ],
+        "fm_added": [],
+        "fm_only_added": [],
+        "fm_final": [
+            "Downton Abbey",
+            "Peaky Blinders",
+            "The Lives of Others",
+            "The Sopranos",
+            "Thelma & Louise"
+        ],
+        "norm_final": [
+            "downton abbey",
+            "peaky blinders",
+            "the lives of others",
+            "the sopranos",
+            "thelma  louise"
+        ],
+        "norm_final_without_original": [],
+        "fm_orig_movieId": [
+            "205076",
+            "300039",
+            "44555",
+            "300066",
+            "3418"
+        ],
+        "fm_only_added_movieId": [],
+        "fm_final_movieId": [
+            "205076",
+            "300039",
+            "44555",
+            "300066",
+            "3418"
+        ]
+    },
+    "user59": {
+        "fm_orig": [
+            "Guardians of the Galaxy",
+            "The Avengers",
+            "Thor: Ragnarok"
+        ],
+        "fm_added": [
+            {
+                "title": "Spider-Man: No Way Home",
+                "from_user": "user928",
+                "similarity": 0.785714
+            },
+            {
+                "title": "The Office (US)",
+                "from_user": "user1476",
+                "similarity": 0.769231
+            },
+            {
+                "title": "The Hitchhiker's Guide to the Galaxy",
+                "from_user": "user420",
+                "similarity": 0.75
+            },
+            {
+                "title": "The Mandalorian",
+                "from_user": "user370",
+                "similarity": 0.75
+            },
+            {
+                "title": "Parks and Recreation",
+                "from_user": "user1290",
+                "similarity": 0.642857
+            },
+            {
+                "title": "The Lego Movie",
+                "from_user": "user828",
+                "similarity": 0.642857
+            },
+            {
+                "title": "Avengers: Endgame",
+                "from_user": "user95",
+                "similarity": 0.615385
+            },
+            {
+                "title": "BoJack Horseman",
+                "from_user": "user232",
+                "similarity": 0.6
+            },
+            {
+                "title": "Jurassic World",
+                "from_user": "user1035",
+                "similarity": 0.6
+            },
+            {
+                "title": "Rick and Morty",
+                "from_user": "user232",
+                "similarity": 0.6
+            },
+            {
+                "title": "The Lord of the Rings Trilogy",
+                "from_user": "user277",
+                "similarity": 0.6
+            },
+            {
+                "title": "The Suicide Squad",
+                "from_user": "user668",
+                "similarity": 0.6
+            },
+            {
+                "title": "Deadpool",
+                "from_user": "user372",
+                "similarity": 0.533333
+            },
+            {
+                "title": "The Guardians of the Galaxy",
+                "from_user": "user372",
+                "similarity": 0.533333
+            },
+            {
+                "title": "Stranger Things",
+                "from_user": "user193",
+                "similarity": 0.529412
+            },
+            {
+                "title": "Interstellar",
+                "from_user": "user702",
+                "similarity": 0.5
+            },
+            {
+                "title": "Man of Steel",
+                "from_user": "user702",
+                "similarity": 0.5
+            },
+            {
+                "title": "The Grand Budapest Hotel",
+                "from_user": "user1034",
+                "similarity": 0.5
+            },
+            {
+                "title": "The Martian",
+                "from_user": "user57",
+                "similarity": 0.5
+            },
+            {
+                "title": "What We Do in the Shadows",
+                "from_user": "user373",
+                "similarity": 0.5
+            }
+        ],
+        "fm_only_added": [
+            "Spider-Man: No Way Home",
+            "The Office (US)",
+            "The Hitchhiker's Guide to the Galaxy",
+            "The Mandalorian",
+            "Parks and Recreation",
+            "The Lego Movie",
+            "Avengers: Endgame",
+            "BoJack Horseman",
+            "Jurassic World",
+            "Rick and Morty",
+            "The Lord of the Rings Trilogy",
+            "The Suicide Squad",
+            "Deadpool",
+            "The Guardians of the Galaxy",
+            "Stranger Things",
+            "Interstellar",
+            "Man of Steel",
+            "The Grand Budapest Hotel",
+            "The Martian",
+            "What We Do in the Shadows"
+        ],
+        "fm_final": [
+            "Guardians of the Galaxy",
+            "The Avengers",
+            "Thor: Ragnarok",
+            "Spider-Man: No Way Home",
+            "The Office (US)",
+            "The Hitchhiker's Guide to the Galaxy",
+            "The Mandalorian",
+            "Parks and Recreation",
+            "The Lego Movie",
+            "Avengers: Endgame",
+            "BoJack Horseman",
+            "Jurassic World",
+            "Rick and Morty",
+            "The Lord of the Rings Trilogy",
+            "The Suicide Squad",
+            "Deadpool",
+            "The Guardians of the Galaxy",
+            "Stranger Things",
+            "Interstellar",
+            "Man of Steel",
+            "The Grand Budapest Hotel",
+            "The Martian",
+            "What We Do in the Shadows"
+        ],
+        "norm_final": [
+            "avengers endgame",
+            "bojack horseman",
+            "deadpool",
+            "guardians of the galaxy",
+            "interstellar",
+            "jurassic world",
+            "man of steel",
+            "parks and recreation",
+            "rick and morty",
+            "spiderman no way home",
+            "stranger things",
+            "the avengers",
+            "the grand budapest hotel",
+            "the guardians of the galaxy",
+            "the hitchhikers guide to the galaxy",
+            "the lego movie",
+            "the lord of the rings trilogy",
+            "the mandalorian",
+            "the martian",
+            "the office",
+            "the suicide squad",
+            "thor ragnarok",
+            "what we do in the shadows"
+        ],
+        "norm_final_without_original": [
+            "avengers endgame",
+            "bojack horseman",
+            "deadpool",
+            "interstellar",
+            "jurassic world",
+            "man of steel",
+            "parks and recreation",
+            "rick and morty",
+            "spiderman no way home",
+            "stranger things",
+            "the grand budapest hotel",
+            "the guardians of the galaxy",
+            "the hitchhikers guide to the galaxy",
+            "the lego movie",
+            "the lord of the rings trilogy",
+            "the mandalorian",
+            "the martian",
+            "the office",
+            "the suicide squad",
+            "what we do in the shadows"
+        ],
+        "fm_orig_movieId": [
+            "112852",
+            "89745",
+            "122916"
+        ],
+        "fm_only_added_movieId": [
+            "263007",
+            "300065",
+            "33004",
+            "300061",
+            "300038",
+            "108932",
+            "300000",
+            "300077",
+            "117529",
+            "175693",
+            "300060",
+            "251086",
+            "122904",
+            "112852",
+            "261135",
+            "109487",
+            "103042",
+            "109374",
+            "134130",
+            "115122"
+        ],
+        "fm_final_movieId": [
+            "112852",
+            "89745",
+            "122916",
+            "263007",
+            "300065",
+            "33004",
+            "300061",
+            "300038",
+            "108932",
+            "300000",
+            "300077",
+            "117529",
+            "175693",
+            "300060",
+            "251086",
+            "122904",
+            "112852",
+            "261135",
+            "109487",
+            "103042",
+            "109374",
+            "134130",
+            "115122"
+        ]
+    },
+    "user60": {
+        "fm_orig": [
+            "Amélie",
+            "Intouchables",
+            "La Vie en Rose",
+            "The Artist"
+        ],
+        "fm_added": [
+            {
+                "title": "The Fabulous Destiny of Amélie Poulain",
+                "from_user": "user1171",
+                "similarity": 0.6
+            },
+            {
+                "title": "L'Auberge Espagnole",
+                "from_user": "user1168",
+                "similarity": 0.533333
+            },
+            {
+                "title": "Les Choristes",
+                "from_user": "user1168",
+                "similarity": 0.533333
+            }
+        ],
+        "fm_only_added": [
+            "The Fabulous Destiny of Amélie Poulain",
+            "L'Auberge Espagnole",
+            "Les Choristes"
+        ],
+        "fm_final": [
+            "Amélie",
+            "Intouchables",
+            "La Vie en Rose",
+            "The Artist",
+            "The Fabulous Destiny of Amélie Poulain",
+            "L'Auberge Espagnole",
+            "Les Choristes"
+        ],
+        "norm_final": [
+            "amlie",
+            "intouchables",
+            "la vie en rose",
+            "lauberge espagnole",
+            "les choristes",
+            "the artist",
+            "the fabulous destiny of amlie poulain"
+        ],
+        "norm_final_without_original": [
+            "lauberge espagnole",
+            "les choristes",
+            "the fabulous destiny of amlie poulain"
+        ],
+        "fm_orig_movieId": [
+            "4973",
+            "92259",
+            "52579",
+            "89904"
+        ],
+        "fm_only_added_movieId": [
+            "4973",
+            "6370",
+            "27815"
+        ],
+        "fm_final_movieId": [
+            "4973",
+            "92259",
+            "52579",
+            "89904",
+            "4973",
+            "6370",
+            "27815"
+        ]
+    },
+    "user61": {
+        "fm_orig": [
+            "Amelie",
+            "Cleo from 5 to 7",
+            "Lady Bird",
+            "Rosetta",
+            "The Lobster"
+        ],
+        "fm_added": [],
+        "fm_only_added": [],
+        "fm_final": [
+            "Amelie",
+            "Cleo from 5 to 7",
+            "Lady Bird",
+            "Rosetta",
+            "The Lobster"
+        ],
+        "norm_final": [
+            "amelie",
+            "cleo from 5 to 7",
+            "lady bird",
+            "rosetta",
+            "the lobster"
+        ],
+        "norm_final_without_original": [],
+        "fm_orig_movieId": [
+            "4973",
+            "3645",
+            "177615",
+            "3010",
+            "133771"
+        ],
+        "fm_only_added_movieId": [],
+        "fm_final_movieId": [
+            "4973",
+            "3645",
+            "177615",
+            "3010",
+            "133771"
+        ]
+    },
+    "user62": {
+        "fm_orig": [
+            "Arrival",
+            "Blade Runner 2049",
+            "Ex Machina",
+            "The Grand Budapest Hotel"
+        ],
+        "fm_added": [],
+        "fm_only_added": [],
+        "fm_final": [
+            "Arrival",
+            "Blade Runner 2049",
+            "Ex Machina",
+            "The Grand Budapest Hotel"
+        ],
+        "norm_final": [
+            "arrival",
+            "blade runner 2049",
+            "ex machina",
+            "the grand budapest hotel"
+        ],
+        "norm_final_without_original": [],
+        "fm_orig_movieId": [
+            "164179",
+            "176371",
+            "115713",
+            "109374"
+        ],
+        "fm_only_added_movieId": [],
+        "fm_final_movieId": [
+            "164179",
+            "176371",
+            "115713",
+            "109374"
+        ]
+    },
+    "user63": {
+        "fm_orig": [
+            "Portrait of a Lady on Fire",
+            "Rust and Bone",
+            "The Broken Circle Breakdown",
+            "Toni Erdmann"
+        ],
+        "fm_added": [],
+        "fm_only_added": [],
+        "fm_final": [
+            "Portrait of a Lady on Fire",
+            "Rust and Bone",
+            "The Broken Circle Breakdown",
+            "Toni Erdmann"
+        ],
+        "norm_final": [
+            "portrait of a lady on fire",
+            "rust and bone",
+            "the broken circle breakdown",
+            "toni erdmann"
+        ],
+        "norm_final_without_original": [],
+        "fm_orig_movieId": [
+            "202749",
+            "97024",
+            "300055",
+            "158972"
+        ],
+        "fm_only_added_movieId": [],
+        "fm_final_movieId": [
+            "202749",
+            "97024",
+            "300055",
+            "158972"
+        ]
+    },
+    "user66": {
+        "fm_orig": [
+            "Downton Abbey",
+            "Schindler's List",
+            "The King's Speech"
+        ],
+        "fm_added": [
+            {
+                "title": "The Crown",
+                "from_user": "user351",
+                "similarity": 0.538462
+            },
+            {
+                "title": "Forrest Gump",
+                "from_user": "user1487",
+                "similarity": 0.533333
+            },
+            {
+                "title": "Mrs. Maisel",
+                "from_user": "user478",
+                "similarity": 0.533333
+            },
+            {
+                "title": "Sense and Sensibility",
+                "from_user": "user809",
+                "similarity": 0.533333
+            },
+            {
+                "title": "The Notebook",
+                "from_user": "user1339",
+                "similarity": 0.533333
+            },
+            {
+                "title": "Band of Brothers",
+                "from_user": "user412",
+                "similarity": 0.5
+            },
+            {
+                "title": "Planet Earth",
+                "from_user": "user578",
+                "similarity": 0.5
+            },
+            {
+                "title": "Pride and Prejudice (1995)",
+                "from_user": "user433",
+                "similarity": 0.5
+            },
+            {
+                "title": "Ken Burns' The Civil War",
+                "from_user": "user1401",
+                "similarity": 0.470588
+            },
+            {
+                "title": "Saving Private Ryan",
+                "from_user": "user1401",
+                "similarity": 0.470588
+            }
+        ],
+        "fm_only_added": [
+            "The Crown",
+            "Forrest Gump",
+            "Mrs. Maisel",
+            "Sense and Sensibility",
+            "The Notebook",
+            "Band of Brothers",
+            "Planet Earth",
+            "Pride and Prejudice (1995)",
+            "Ken Burns' The Civil War",
+            "Saving Private Ryan"
+        ],
+        "fm_final": [
+            "Downton Abbey",
+            "Schindler's List",
+            "The King's Speech",
+            "The Crown",
+            "Forrest Gump",
+            "Mrs. Maisel",
+            "Sense and Sensibility",
+            "The Notebook",
+            "Band of Brothers",
+            "Planet Earth",
+            "Pride and Prejudice (1995)",
+            "Ken Burns' The Civil War",
+            "Saving Private Ryan"
+        ],
+        "norm_final": [
+            "band of brothers",
+            "downton abbey",
+            "forrest gump",
+            "ken burns the civil war",
+            "mrs maisel",
+            "planet earth",
+            "pride and prejudice",
+            "saving private ryan",
+            "schindlers list",
+            "sense and sensibility",
+            "the crown",
+            "the kings speech",
+            "the notebook"
+        ],
+        "norm_final_without_original": [
+            "band of brothers",
+            "forrest gump",
+            "ken burns the civil war",
+            "mrs maisel",
+            "planet earth",
+            "pride and prejudice",
+            "saving private ryan",
+            "sense and sensibility",
+            "the crown",
+            "the notebook"
+        ],
+        "fm_orig_movieId": [
+            "205076",
+            "527",
+            "81845"
+        ],
+        "fm_only_added_movieId": [
+            "300086",
+            "356",
+            "300032",
+            "17",
+            "8533",
+            "170705",
+            "159817",
+            "7669",
+            "93040",
+            "2028"
+        ],
+        "fm_final_movieId": [
+            "205076",
+            "527",
+            "81845",
+            "300086",
+            "356",
+            "300032",
+            "17",
+            "8533",
+            "170705",
+            "159817",
+            "7669",
+            "93040",
+            "2028"
+        ]
+    },
+    "user67": {
+        "fm_orig": [
+            "Amelie",
+            "Portrait of a Lady on Fire",
+            "The Lives of Others"
+        ],
+        "fm_added": [],
+        "fm_only_added": [],
+        "fm_final": [
+            "Amelie",
+            "Portrait of a Lady on Fire",
+            "The Lives of Others"
+        ],
+        "norm_final": [
+            "amelie",
+            "portrait of a lady on fire",
+            "the lives of others"
+        ],
+        "norm_final_without_original": [],
+        "fm_orig_movieId": [
+            "4973",
+            "202749",
+            "44555"
+        ],
+        "fm_only_added_movieId": [],
+        "fm_final_movieId": [
+            "4973",
+            "202749",
+            "44555"
+        ]
+    },
+    "user68": {
+        "fm_orig": [
+            "Pan's Labyrinth",
+            "Parasite",
+            "Stories We Tell",
+            "The Handmaiden"
+        ],
+        "fm_added": [
+            {
+                "title": "Portrait of a Lady on Fire",
+                "from_user": "user299",
+                "similarity": 0.5
+            },
+            {
+                "title": "Spirited Away",
+                "from_user": "user299",
+                "similarity": 0.5
+            }
+        ],
+        "fm_only_added": [
+            "Portrait of a Lady on Fire",
+            "Spirited Away"
+        ],
+        "fm_final": [
+            "Pan's Labyrinth",
+            "Parasite",
+            "Stories We Tell",
+            "The Handmaiden",
+            "Portrait of a Lady on Fire",
+            "Spirited Away"
+        ],
+        "norm_final": [
+            "pans labyrinth",
+            "parasite",
+            "portrait of a lady on fire",
+            "spirited away",
+            "stories we tell",
+            "the handmaiden"
+        ],
+        "norm_final_without_original": [
+            "portrait of a lady on fire",
+            "spirited away"
+        ],
+        "fm_orig_movieId": [
+            "48394",
+            "2256",
+            "102588",
+            "158783"
+        ],
+        "fm_only_added_movieId": [
+            "202749",
+            "5618"
+        ],
+        "fm_final_movieId": [
+            "48394",
+            "2256",
+            "102588",
+            "158783",
+            "202749",
+            "5618"
+        ]
+    },
+    "user69": {
+        "fm_orig": [
+            "Amelie",
+            "Fleabag",
+            "The Grand Budapest Hotel"
+        ],
+        "fm_added": [
+            {
+                "title": "Portrait of a Lady on Fire",
+                "from_user": "user229",
+                "similarity": 0.538462
+            }
+        ],
+        "fm_only_added": [
+            "Portrait of a Lady on Fire"
+        ],
+        "fm_final": [
+            "Amelie",
+            "Fleabag",
+            "The Grand Budapest Hotel",
+            "Portrait of a Lady on Fire"
+        ],
+        "norm_final": [
+            "amelie",
+            "fleabag",
+            "portrait of a lady on fire",
+            "the grand budapest hotel"
+        ],
+        "norm_final_without_original": [
+            "portrait of a lady on fire"
+        ],
+        "fm_orig_movieId": [
+            "4973",
+            "223011",
+            "109374"
+        ],
+        "fm_only_added_movieId": [
+            "202749"
+        ],
+        "fm_final_movieId": [
+            "4973",
+            "223011",
+            "109374",
+            "202749"
+        ]
+    },
+    "user70": {
+        "fm_orig": [
+            "Downton Abbey",
+            "Planet Earth",
+            "Pride and Prejudice",
+            "Schindler's List",
+            "The Crown"
+        ],
+        "fm_added": [
+            {
+                "title": "Pride and Prejudice (1995)",
+                "from_user": "user144",
+                "similarity": 0.625
+            },
+            {
+                "title": "Chariots of Fire",
+                "from_user": "user1248",
+                "similarity": 0.611111
+            },
+            {
+                "title": "The King's Speech",
+                "from_user": "user1248",
+                "similarity": 0.611111
+            },
+            {
+                "title": "Chernobyl",
+                "from_user": "user1160",
+                "similarity": 0.529412
+            },
+            {
+                "title": "Sense and Sensibility",
+                "from_user": "user765",
+                "similarity": 0.529412
+            },
+            {
+                "title": "Gosford Park",
+                "from_user": "user1234",
+                "similarity": 0.526316
+            },
+            {
+                "title": "The Queen",
+                "from_user": "user1234",
+                "similarity": 0.526316
+            },
+            {
+                "title": "Foyle's War",
+                "from_user": "user915",
+                "similarity": 0.52381
+            },
+            {
+                "title": "Sherlock",
+                "from_user": "user915",
+                "similarity": 0.52381
+            },
+            {
+                "title": "Band of Brothers",
+                "from_user": "user412",
+                "similarity": 0.5
+            },
+            {
+                "title": "Remains of the Day",
+                "from_user": "user1216",
+                "similarity": 0.473684
+            },
+            {
+                "title": "Wings of Desire",
+                "from_user": "user54",
+                "similarity": 0.473684
+            }
+        ],
+        "fm_only_added": [
+            "Pride and Prejudice (1995)",
+            "Chariots of Fire",
+            "The King's Speech",
+            "Chernobyl",
+            "Sense and Sensibility",
+            "Gosford Park",
+            "The Queen",
+            "Foyle's War",
+            "Sherlock",
+            "Band of Brothers",
+            "Remains of the Day",
+            "Wings of Desire"
+        ],
+        "fm_final": [
+            "Downton Abbey",
+            "Planet Earth",
+            "Pride and Prejudice",
+            "Schindler's List",
+            "The Crown",
+            "Pride and Prejudice (1995)",
+            "Chariots of Fire",
+            "The King's Speech",
+            "Chernobyl",
+            "Sense and Sensibility",
+            "Gosford Park",
+            "The Queen",
+            "Foyle's War",
+            "Sherlock",
+            "Band of Brothers",
+            "Remains of the Day",
+            "Wings of Desire"
+        ],
+        "norm_final": [
+            "band of brothers",
+            "chariots of fire",
+            "chernobyl",
+            "downton abbey",
+            "foyles war",
+            "gosford park",
+            "planet earth",
+            "pride and prejudice",
+            "remains of the day",
+            "schindlers list",
+            "sense and sensibility",
+            "sherlock",
+            "the crown",
+            "the kings speech",
+            "the queen",
+            "wings of desire"
+        ],
+        "norm_final_without_original": [
+            "band of brothers",
+            "chariots of fire",
+            "chernobyl",
+            "foyles war",
+            "gosford park",
+            "pride and prejudice",
+            "remains of the day",
+            "sense and sensibility",
+            "sherlock",
+            "the kings speech",
+            "the queen",
+            "wings of desire"
+        ],
+        "fm_orig_movieId": [
+            "205076",
+            "159817",
+            "7579",
+            "527",
+            "300086"
+        ],
+        "fm_only_added_movieId": [
+            "7669",
+            "1957",
+            "81845",
+            "300008",
+            "17",
+            "5013",
+            "47629",
+            "238102",
+            "203922",
+            "170705",
+            "515",
+            "1211"
+        ],
+        "fm_final_movieId": [
+            "205076",
+            "159817",
+            "7579",
+            "527",
+            "300086",
+            "7669",
+            "1957",
+            "81845",
+            "300008",
+            "17",
+            "5013",
+            "47629",
+            "238102",
+            "203922",
+            "170705",
+            "515",
+            "1211"
+        ]
+    },
+    "user71": {
+        "fm_orig": [
+            "Melancholia",
+            "Scenes from a Marriage",
+            "The Seventh Seal"
+        ],
+        "fm_added": [
+            {
+                "title": "Blade Runner 2049",
+                "from_user": "user1467",
+                "similarity": 0.478261
+            },
+            {
+                "title": "Ex Machina",
+                "from_user": "user1467",
+                "similarity": 0.478261
+            }
+        ],
+        "fm_only_added": [
+            "Blade Runner 2049",
+            "Ex Machina"
+        ],
+        "fm_final": [
+            "Melancholia",
+            "Scenes from a Marriage",
+            "The Seventh Seal",
+            "Blade Runner 2049",
+            "Ex Machina"
+        ],
+        "norm_final": [
+            "blade runner 2049",
+            "ex machina",
+            "melancholia",
+            "scenes from a marriage",
+            "the seventh seal"
+        ],
+        "norm_final_without_original": [
+            "blade runner 2049",
+            "ex machina"
+        ],
+        "fm_orig_movieId": [
+            "210989",
+            "272905",
+            "1237"
+        ],
+        "fm_only_added_movieId": [
+            "176371",
+            "115713"
+        ],
+        "fm_final_movieId": [
+            "210989",
+            "272905",
+            "1237",
+            "176371",
+            "115713"
+        ]
+    },
+    "user73": {
+        "fm_orig": [
+            "Festen",
+            "Jagten",
+            "Melancholia",
+            "The Celebration",
+            "The Hunt"
+        ],
+        "fm_added": [
+            {
+                "title": "Forbrydelsen",
+                "from_user": "user99",
+                "similarity": 0.588235
+            }
+        ],
+        "fm_only_added": [
+            "Forbrydelsen"
+        ],
+        "fm_final": [
+            "Festen",
+            "Jagten",
+            "Melancholia",
+            "The Celebration",
+            "The Hunt",
+            "Forbrydelsen"
+        ],
+        "norm_final": [
+            "festen",
+            "forbrydelsen",
+            "jagten",
+            "melancholia",
+            "the celebration",
+            "the hunt"
+        ],
+        "norm_final_without_original": [
+            "forbrydelsen"
+        ],
+        "fm_orig_movieId": [
+            "2360",
+            "96829",
+            "210989",
+            "2360",
+            "213892"
+        ],
+        "fm_only_added_movieId": [
+            "300081"
+        ],
+        "fm_final_movieId": [
+            "2360",
+            "96829",
+            "210989",
+            "2360",
+            "213892",
+            "300081"
+        ]
+    },
+    "user74": {
+        "fm_orig": [
+            "Derry Girls",
+            "Normal People",
+            "The Favourite"
+        ],
+        "fm_added": [],
+        "fm_only_added": [],
+        "fm_final": [
+            "Derry Girls",
+            "Normal People",
+            "The Favourite"
+        ],
+        "norm_final": [
+            "derry girls",
+            "normal people",
+            "the favourite"
+        ],
+        "norm_final_without_original": [],
+        "fm_orig_movieId": [
+            "300010",
+            "300035",
+            "183837"
+        ],
+        "fm_only_added_movieId": [],
+        "fm_final_movieId": [
+            "300010",
+            "300035",
+            "183837"
+        ]
+    },
+    "user75": {
+        "fm_orig": [
+            "Deadwind",
+            "Frozen Land",
+            "Iron Sky",
+            "The Unknown Soldier"
+        ],
+        "fm_added": [],
+        "fm_only_added": [],
+        "fm_final": [
+            "Deadwind",
+            "Frozen Land",
+            "Iron Sky",
+            "The Unknown Soldier"
+        ],
+        "norm_final": [
+            "deadwind",
+            "frozen land",
+            "iron sky",
+            "the unknown soldier"
+        ],
+        "norm_final_without_original": [],
+        "fm_orig_movieId": [
+            "300009",
+            "31785",
+            "93805",
+            "179925"
+        ],
+        "fm_only_added_movieId": [],
+        "fm_final_movieId": [
+            "300009",
+            "31785",
+            "93805",
+            "179925"
+        ]
+    },
+    "user76": {
+        "fm_orig": [
+            "Arrival",
+            "Parasite",
+            "Uncle Boonmee Who Can Recall His Past Lives"
+        ],
+        "fm_added": [
+            {
+                "title": "The Handmaid's Tale",
+                "from_user": "user44",
+                "similarity": 0.642857
+            }
+        ],
+        "fm_only_added": [
+            "The Handmaid's Tale"
+        ],
+        "fm_final": [
+            "Arrival",
+            "Parasite",
+            "Uncle Boonmee Who Can Recall His Past Lives",
+            "The Handmaid's Tale"
+        ],
+        "norm_final": [
+            "arrival",
+            "parasite",
+            "the handmaids tale",
+            "uncle boonmee who can recall his past lives"
+        ],
+        "norm_final_without_original": [
+            "the handmaids tale"
+        ],
+        "fm_orig_movieId": [
+            "164179",
+            "2256",
+            "81751"
+        ],
+        "fm_only_added_movieId": [
+            "6678"
+        ],
+        "fm_final_movieId": [
+            "164179",
+            "2256",
+            "81751",
+            "6678"
+        ]
+    },
+    "user77": {
+        "fm_orig": [
+            "Stranger Things",
+            "The Lord of the Rings Trilogy",
+            "Thor: Ragnarok"
+        ],
+        "fm_added": [
+            {
+                "title": "Avatar",
+                "from_user": "user363",
+                "similarity": 0.666667
+            },
+            {
+                "title": "Pulp Fiction",
+                "from_user": "user529",
+                "similarity": 0.666667
+            },
+            {
+                "title": "The Lord of the Rings trilogy",
+                "from_user": "user529",
+                "similarity": 0.666667
+            },
+            {
+                "title": "Dune",
+                "from_user": "user530",
+                "similarity": 0.571429
+            },
+            {
+                "title": "Inception",
+                "from_user": "user1319",
+                "similarity": 0.538462
+            },
+            {
+                "title": "Guardians of the Galaxy",
+                "from_user": "user277",
+                "similarity": 0.533333
+            },
+            {
+                "title": "Rick and Morty",
+                "from_user": "user277",
+                "similarity": 0.533333
+            },
+            {
+                "title": "Avengers: Endgame",
+                "from_user": "user193",
+                "similarity": 0.470588
+            },
+            {
+                "title": "The Mandalorian",
+                "from_user": "user193",
+                "similarity": 0.470588
+            }
+        ],
+        "fm_only_added": [
+            "Avatar",
+            "Pulp Fiction",
+            "The Lord of the Rings trilogy",
+            "Dune",
+            "Inception",
+            "Guardians of the Galaxy",
+            "Rick and Morty",
+            "Avengers: Endgame",
+            "The Mandalorian"
+        ],
+        "fm_final": [
+            "Stranger Things",
+            "The Lord of the Rings Trilogy",
+            "Thor: Ragnarok",
+            "Avatar",
+            "Pulp Fiction",
+            "The Lord of the Rings trilogy",
+            "Dune",
+            "Inception",
+            "Guardians of the Galaxy",
+            "Rick and Morty",
+            "Avengers: Endgame",
+            "The Mandalorian"
+        ],
+        "norm_final": [
+            "avatar",
+            "avengers endgame",
+            "dune",
+            "guardians of the galaxy",
+            "inception",
+            "pulp fiction",
+            "rick and morty",
+            "stranger things",
+            "the lord of the rings trilogy",
+            "the mandalorian",
+            "thor ragnarok"
+        ],
+        "norm_final_without_original": [
+            "avatar",
+            "avengers endgame",
+            "dune",
+            "guardians of the galaxy",
+            "inception",
+            "pulp fiction",
+            "rick and morty",
+            "the lord of the rings trilogy",
+            "the mandalorian"
+        ],
+        "fm_orig_movieId": [
+            "261135",
+            "300060",
+            "122916"
+        ],
+        "fm_only_added_movieId": [
+            "72998",
+            "296",
+            "300060",
+            "2021",
+            "79132",
+            "112852",
+            "175693",
+            "300000",
+            "300061"
+        ],
+        "fm_final_movieId": [
+            "261135",
+            "300060",
+            "122916",
+            "72998",
+            "296",
+            "300060",
+            "2021",
+            "79132",
+            "112852",
+            "175693",
+            "300000",
+            "300061"
+        ]
+    },
+    "user78": {
+        "fm_orig": [
+            "Fanny and Alexander",
+            "The Dressmaker",
+            "The Seventh Seal"
+        ],
+        "fm_added": [],
+        "fm_only_added": [],
+        "fm_final": [
+            "Fanny and Alexander",
+            "The Dressmaker",
+            "The Seventh Seal"
+        ],
+        "norm_final": [
+            "fanny and alexander",
+            "the dressmaker",
+            "the seventh seal"
+        ],
+        "norm_final_without_original": [],
+        "fm_orig_movieId": [
+            "2068",
+            "145150",
+            "1237"
+        ],
+        "fm_only_added_movieId": [],
+        "fm_final_movieId": [
+            "2068",
+            "145150",
+            "1237"
+        ]
+    },
+    "user79": {
+        "fm_orig": [
+            "Dune (2021)",
+            "Little Women (2019)",
+            "The Queen's Gambit"
+        ],
+        "fm_added": [
+            {
+                "title": "Lady Bird",
+                "from_user": "user83",
+                "similarity": 0.666667
+            },
+            {
+                "title": "Heartstopper",
+                "from_user": "user110",
+                "similarity": 0.538462
+            },
+            {
+                "title": "Midsommar",
+                "from_user": "user110",
+                "similarity": 0.538462
+            },
+            {
+                "title": "Normal People",
+                "from_user": "user268",
+                "similarity": 0.538462
+            }
+        ],
+        "fm_only_added": [
+            "Lady Bird",
+            "Heartstopper",
+            "Midsommar",
+            "Normal People"
+        ],
+        "fm_final": [
+            "Dune (2021)",
+            "Little Women (2019)",
+            "The Queen's Gambit",
+            "Lady Bird",
+            "Heartstopper",
+            "Midsommar",
+            "Normal People"
+        ],
+        "norm_final": [
+            "dune",
+            "heartstopper",
+            "lady bird",
+            "little women",
+            "midsommar",
+            "normal people",
+            "the queens gambit"
+        ],
+        "norm_final_without_original": [
+            "heartstopper",
+            "lady bird",
+            "midsommar",
+            "normal people"
+        ],
+        "fm_orig_movieId": [
+            "254726",
+            "209315",
+            "300092"
+        ],
+        "fm_only_added_movieId": [
+            "177615",
+            "148428",
+            "201646",
+            "300035"
+        ],
+        "fm_final_movieId": [
+            "254726",
+            "209315",
+            "300092",
+            "177615",
+            "148428",
+            "201646",
+            "300035"
+        ]
+    },
+    "user80": {
+        "fm_orig": [
+            "Blade Runner",
+            "Solaris (1972)",
+            "Stalker",
+            "The Matrix",
+            "The Seventh Seal"
+        ],
+        "fm_added": [],
+        "fm_only_added": [],
+        "fm_final": [
+            "Blade Runner",
+            "Solaris (1972)",
+            "Stalker",
+            "The Matrix",
+            "The Seventh Seal"
+        ],
+        "norm_final": [
+            "blade runner",
+            "solaris",
+            "stalker",
+            "the matrix",
+            "the seventh seal"
+        ],
+        "norm_final_without_original": [],
+        "fm_orig_movieId": [
+            "541",
+            "3503",
+            "1232",
+            "2571",
+            "1237"
+        ],
+        "fm_only_added_movieId": [],
+        "fm_final_movieId": [
+            "541",
+            "3503",
+            "1232",
+            "2571",
+            "1237"
+        ]
+    },
+    "user81": {
+        "fm_orig": [
+            "Band of Brothers",
+            "Saving Private Ryan",
+            "Schindler's List",
+            "The Shawshank Redemption"
+        ],
+        "fm_added": [
+            {
+                "title": "Ken Burns Documentaries",
+                "from_user": "user1430",
+                "similarity": 0.846154
+            },
+            {
+                "title": "Ken Burns' The Civil War",
+                "from_user": "user1340",
+                "similarity": 0.846154
+            },
+            {
+                "title": "The World at War",
+                "from_user": "user139",
+                "similarity": 0.846154
+            },
+            {
+                "title": "Forrest Gump",
+                "from_user": "user1359",
+                "similarity": 0.666667
+            },
+            {
+                "title": "Planet Earth",
+                "from_user": "user1247",
+                "similarity": 0.666667
+            },
+            {
+                "title": "The Pacific",
+                "from_user": "user1432",
+                "similarity": 0.666667
+            },
+            {
+                "title": "The Crown",
+                "from_user": "user540",
+                "similarity": 0.6
+            },
+            {
+                "title": "The Green Mile",
+                "from_user": "user909",
+                "similarity": 0.6
+            },
+            {
+                "title": "The Good, the Bad and the Ugly",
+                "from_user": "user1408",
+                "similarity": 0.588235
+            },
+            {
+                "title": "The Longest Day",
+                "from_user": "user1453",
+                "similarity": 0.5625
+            },
+            {
+                "title": "Ken Burns' Baseball",
+                "from_user": "user655",
+                "similarity": 0.555556
+            },
+            {
+                "title": "Downton Abbey",
+                "from_user": "user681",
+                "similarity": 0.5
+            },
+            {
+                "title": "Goodfellas",
+                "from_user": "user888",
+                "similarity": 0.5
+            },
+            {
+                "title": "Ken Burns' Civil War",
+                "from_user": "user456",
+                "similarity": 0.5
+            },
+            {
+                "title": "The Lord of the Rings Trilogy",
+                "from_user": "user1132",
+                "similarity": 0.5
+            },
+            {
+                "title": "Lonesome Dove",
+                "from_user": "user663",
+                "similarity": 0.470588
+            },
+            {
+                "title": "The Godfather",
+                "from_user": "user1378",
+                "similarity": 0.470588
+            }
+        ],
+        "fm_only_added": [
+            "Ken Burns Documentaries",
+            "Ken Burns' The Civil War",
+            "The World at War",
+            "Forrest Gump",
+            "Planet Earth",
+            "The Pacific",
+            "The Crown",
+            "The Green Mile",
+            "The Good, the Bad and the Ugly",
+            "The Longest Day",
+            "Ken Burns' Baseball",
+            "Downton Abbey",
+            "Goodfellas",
+            "Ken Burns' Civil War",
+            "The Lord of the Rings Trilogy",
+            "Lonesome Dove",
+            "The Godfather"
+        ],
+        "fm_final": [
+            "Band of Brothers",
+            "Saving Private Ryan",
+            "Schindler's List",
+            "The Shawshank Redemption",
+            "Ken Burns Documentaries",
+            "Ken Burns' The Civil War",
+            "The World at War",
+            "Forrest Gump",
+            "Planet Earth",
+            "The Pacific",
+            "The Crown",
+            "The Green Mile",
+            "The Good, the Bad and the Ugly",
+            "The Longest Day",
+            "Ken Burns' Baseball",
+            "Downton Abbey",
+            "Goodfellas",
+            "Ken Burns' Civil War",
+            "The Lord of the Rings Trilogy",
+            "Lonesome Dove",
+            "The Godfather"
+        ],
+        "norm_final": [
+            "band of brothers",
+            "downton abbey",
+            "forrest gump",
+            "goodfellas",
+            "ken burns baseball",
+            "ken burns civil war",
+            "ken burns documentaries",
+            "ken burns the civil war",
+            "lonesome dove",
+            "planet earth",
+            "saving private ryan",
+            "schindlers list",
+            "the crown",
+            "the godfather",
+            "the good the bad and the ugly",
+            "the green mile",
+            "the longest day",
+            "the lord of the rings trilogy",
+            "the pacific",
+            "the shawshank redemption",
+            "the world at war"
+        ],
+        "norm_final_without_original": [
+            "downton abbey",
+            "forrest gump",
+            "goodfellas",
+            "ken burns baseball",
+            "ken burns civil war",
+            "ken burns documentaries",
+            "ken burns the civil war",
+            "lonesome dove",
+            "planet earth",
+            "the crown",
+            "the godfather",
+            "the good the bad and the ugly",
+            "the green mile",
+            "the longest day",
+            "the lord of the rings trilogy",
+            "the pacific",
+            "the world at war"
+        ],
+        "fm_orig_movieId": [
+            "170705",
+            "2028",
+            "527",
+            "318"
+        ],
+        "fm_only_added_movieId": [
+            "165069",
+            "93040",
+            "300069",
+            "356",
+            "159817",
+            "126430",
+            "300086",
+            "3147",
+            "1201",
+            "3062",
+            "165069",
+            "205076",
+            "1213",
+            "93040",
+            "300060",
+            "300082",
+            "300090"
+        ],
+        "fm_final_movieId": [
+            "170705",
+            "2028",
+            "527",
+            "318",
+            "165069",
+            "93040",
+            "300069",
+            "356",
+            "159817",
+            "126430",
+            "300086",
+            "3147",
+            "1201",
+            "3062",
+            "165069",
+            "205076",
+            "1213",
+            "93040",
+            "300060",
+            "300082",
+            "300090"
+        ]
+    },
+    "user82": {
+        "fm_orig": [
+            "Hable con Ella",
+            "Todo Sobre Mi Madre",
+            "Volver"
+        ],
+        "fm_added": [
+            {
+                "title": "Hable con ella",
+                "from_user": "user89",
+                "similarity": 0.727273
+            },
+            {
+                "title": "Todo sobre mi madre",
+                "from_user": "user89",
+                "similarity": 0.727273
+            },
+            {
+                "title": "La Piel Que Habito",
+                "from_user": "user20",
+                "similarity": 0.615385
+            },
+            {
+                "title": "El Laberinto del Fauno",
+                "from_user": "user47",
+                "similarity": 0.583333
+            },
+            {
+                "title": "Abre los ojos",
+                "from_user": "user27",
+                "similarity": 0.5
+            },
+            {
+                "title": "Mar adentro",
+                "from_user": "user27",
+                "similarity": 0.5
+            }
+        ],
+        "fm_only_added": [
+            "Hable con ella",
+            "Todo sobre mi madre",
+            "La Piel Que Habito",
+            "El Laberinto del Fauno",
+            "Abre los ojos",
+            "Mar adentro"
+        ],
+        "fm_final": [
+            "Hable con Ella",
+            "Todo Sobre Mi Madre",
+            "Volver",
+            "Hable con ella",
+            "Todo sobre mi madre",
+            "La Piel Que Habito",
+            "El Laberinto del Fauno",
+            "Abre los ojos",
+            "Mar adentro"
+        ],
+        "norm_final": [
+            "abre los ojos",
+            "el laberinto del fauno",
+            "hable con ella",
+            "la piel que habito",
+            "mar adentro",
+            "todo sobre mi madre",
+            "volver"
+        ],
+        "norm_final_without_original": [
+            "abre los ojos",
+            "el laberinto del fauno",
+            "hable con ella",
+            "la piel que habito",
+            "mar adentro",
+            "todo sobre mi madre"
+        ],
+        "fm_orig_movieId": [
+            "5878",
+            "3083",
+            "44694"
+        ],
+        "fm_only_added_movieId": [
+            "5878",
+            "3083",
+            "89118",
+            "48394",
+            "2594",
+            "27803"
+        ],
+        "fm_final_movieId": [
+            "5878",
+            "3083",
+            "44694",
+            "5878",
+            "3083",
+            "89118",
+            "48394",
+            "2594",
+            "27803"
+        ]
+    },
+    "user83": {
+        "fm_orig": [
+            "Lady Bird",
+            "Little Women (2019)",
+            "The Queen's Gambit"
+        ],
+        "fm_added": [
+            {
+                "title": "Normal People",
+                "from_user": "user268",
+                "similarity": 0.818182
+            },
+            {
+                "title": "Dune (2021)",
+                "from_user": "user79",
+                "similarity": 0.666667
+            },
+            {
+                "title": "Call Me By Your Name",
+                "from_user": "user18",
+                "similarity": 0.538462
+            },
+            {
+                "title": "Frances Ha",
+                "from_user": "user7",
+                "similarity": 0.538462
+            },
+            {
+                "title": "Little Women",
+                "from_user": "user23",
+                "similarity": 0.538462
+            },
+            {
+                "title": "The Perks of Being a Wallflower",
+                "from_user": "user273",
+                "similarity": 0.538462
+            }
+        ],
+        "fm_only_added": [
+            "Normal People",
+            "Dune (2021)",
+            "Call Me By Your Name",
+            "Frances Ha",
+            "Little Women",
+            "The Perks of Being a Wallflower"
+        ],
+        "fm_final": [
+            "Lady Bird",
+            "Little Women (2019)",
+            "The Queen's Gambit",
+            "Normal People",
+            "Dune (2021)",
+            "Call Me By Your Name",
+            "Frances Ha",
+            "Little Women",
+            "The Perks of Being a Wallflower"
+        ],
+        "norm_final": [
+            "call me by your name",
+            "dune",
+            "frances ha",
+            "lady bird",
+            "little women",
+            "normal people",
+            "the perks of being a wallflower",
+            "the queens gambit"
+        ],
+        "norm_final_without_original": [
+            "call me by your name",
+            "dune",
+            "frances ha",
+            "little women",
+            "normal people",
+            "the perks of being a wallflower"
+        ],
+        "fm_orig_movieId": [
+            "177615",
+            "209315",
+            "300092"
+        ],
+        "fm_only_added_movieId": [
+            "300035",
+            "254726",
+            "168492",
+            "102800",
+            "261",
+            "96821"
+        ],
+        "fm_final_movieId": [
+            "177615",
+            "209315",
+            "300092",
+            "300035",
+            "254726",
+            "168492",
+            "102800",
+            "261",
+            "96821"
+        ]
+    },
+    "user84": {
+        "fm_orig": [
+            "Borgen",
+            "Festen",
+            "Melancholia",
+            "The Killing"
+        ],
+        "fm_added": [],
+        "fm_only_added": [],
+        "fm_final": [
+            "Borgen",
+            "Festen",
+            "Melancholia",
+            "The Killing"
+        ],
+        "norm_final": [
+            "borgen",
+            "festen",
+            "melancholia",
+            "the killing"
+        ],
+        "norm_final_without_original": [],
+        "fm_orig_movieId": [
+            "300002",
+            "2360",
+            "210989",
+            "2726"
+        ],
+        "fm_only_added_movieId": [],
+        "fm_final_movieId": [
+            "300002",
+            "2360",
+            "210989",
+            "2726"
+        ]
+    },
+    "user85": {
+        "fm_orig": [
+            "Everything Everywhere All at Once",
+            "Little Women (2019)",
+            "Parasite"
+        ],
+        "fm_added": [
+            {
+                "title": "Fleabag",
+                "from_user": "user253",
+                "similarity": 0.642857
+            },
+            {
+                "title": "Portrait of a Lady on Fire",
+                "from_user": "user172",
+                "similarity": 0.588235
+            },
+            {
+                "title": "The Handmaid's Tale",
+                "from_user": "user172",
+                "similarity": 0.588235
+            },
+            {
+                "title": "Dune",
+                "from_user": "user56",
+                "similarity": 0.470588
+            },
+            {
+                "title": "Lady Bird",
+                "from_user": "user56",
+                "similarity": 0.470588
+            },
+            {
+                "title": "The Lord of the Rings trilogy",
+                "from_user": "user56",
+                "similarity": 0.470588
+            }
+        ],
+        "fm_only_added": [
+            "Fleabag",
+            "Portrait of a Lady on Fire",
+            "The Handmaid's Tale",
+            "Dune",
+            "Lady Bird",
+            "The Lord of the Rings trilogy"
+        ],
+        "fm_final": [
+            "Everything Everywhere All at Once",
+            "Little Women (2019)",
+            "Parasite",
+            "Fleabag",
+            "Portrait of a Lady on Fire",
+            "The Handmaid's Tale",
+            "Dune",
+            "Lady Bird",
+            "The Lord of the Rings trilogy"
+        ],
+        "norm_final": [
+            "dune",
+            "everything everywhere all at once",
+            "fleabag",
+            "lady bird",
+            "little women",
+            "parasite",
+            "portrait of a lady on fire",
+            "the handmaids tale",
+            "the lord of the rings trilogy"
+        ],
+        "norm_final_without_original": [
+            "dune",
+            "fleabag",
+            "lady bird",
+            "portrait of a lady on fire",
+            "the handmaids tale",
+            "the lord of the rings trilogy"
+        ],
+        "fm_orig_movieId": [
+            "270698",
+            "209315",
+            "2256"
+        ],
+        "fm_only_added_movieId": [
+            "223011",
+            "202749",
+            "6678",
+            "2021",
+            "177615",
+            "300060"
+        ],
+        "fm_final_movieId": [
+            "270698",
+            "209315",
+            "2256",
+            "223011",
+            "202749",
+            "6678",
+            "2021",
+            "177615",
+            "300060"
+        ]
+    },
+    "user86": {
+        "fm_orig": [
+            "Fight Club",
+            "Interstellar",
+            "The Matrix Trilogy"
+        ],
+        "fm_added": [
+            {
+                "title": "The Office (US)",
+                "from_user": "user1",
+                "similarity": 0.538462
+            },
+            {
+                "title": "Top Gun: Maverick",
+                "from_user": "user1",
+                "similarity": 0.538462
+            }
+        ],
+        "fm_only_added": [
+            "The Office (US)",
+            "Top Gun: Maverick"
+        ],
+        "fm_final": [
+            "Fight Club",
+            "Interstellar",
+            "The Matrix Trilogy",
+            "The Office (US)",
+            "Top Gun: Maverick"
+        ],
+        "norm_final": [
+            "fight club",
+            "interstellar",
+            "the matrix trilogy",
+            "the office",
+            "top gun maverick"
+        ],
+        "norm_final_without_original": [
+            "the office",
+            "top gun maverick"
+        ],
+        "fm_orig_movieId": [
+            "2959",
+            "109487",
+            "300063"
+        ],
+        "fm_only_added_movieId": [
+            "300065",
+            "274053"
+        ],
+        "fm_final_movieId": [
+            "2959",
+            "109487",
+            "300063",
+            "300065",
+            "274053"
+        ]
+    },
+    "user87": {
+        "fm_orig": [
+            "Call Me By Your Name",
+            "Lady Bird",
+            "Little Women (2019)"
+        ],
+        "fm_added": [
+            {
+                "title": "Normal People",
+                "from_user": "user16",
+                "similarity": 0.666667
+            },
+            {
+                "title": "Little Women",
+                "from_user": "user23",
+                "similarity": 0.538462
+            },
+            {
+                "title": "The Queen's Gambit",
+                "from_user": "user83",
+                "similarity": 0.538462
+            }
+        ],
+        "fm_only_added": [
+            "Normal People",
+            "Little Women",
+            "The Queen's Gambit"
+        ],
+        "fm_final": [
+            "Call Me By Your Name",
+            "Lady Bird",
+            "Little Women (2019)",
+            "Normal People",
+            "Little Women",
+            "The Queen's Gambit"
+        ],
+        "norm_final": [
+            "call me by your name",
+            "lady bird",
+            "little women",
+            "normal people",
+            "the queens gambit"
+        ],
+        "norm_final_without_original": [
+            "little women",
+            "normal people",
+            "the queens gambit"
+        ],
+        "fm_orig_movieId": [
+            "168492",
+            "177615",
+            "209315"
+        ],
+        "fm_only_added_movieId": [
+            "300035",
+            "261",
+            "300092"
+        ],
+        "fm_final_movieId": [
+            "168492",
+            "177615",
+            "209315",
+            "300035",
+            "261",
+            "300092"
+        ]
+    },
+    "user89": {
+        "fm_orig": [
+            "Hable con ella",
+            "Todo sobre mi madre",
+            "Volver"
+        ],
+        "fm_added": [
+            {
+                "title": "Hable con Ella",
+                "from_user": "user20",
+                "similarity": 0.833333
+            },
+            {
+                "title": "La Piel Que Habito",
+                "from_user": "user20",
+                "similarity": 0.833333
+            },
+            {
+                "title": "Todo Sobre Mi Madre",
+                "from_user": "user20",
+                "similarity": 0.833333
+            },
+            {
+                "title": "Abre los ojos",
+                "from_user": "user27",
+                "similarity": 0.692308
+            },
+            {
+                "title": "Mar adentro",
+                "from_user": "user27",
+                "similarity": 0.692308
+            },
+            {
+                "title": "Mar Adentro",
+                "from_user": "user33",
+                "similarity": 0.538462
+            }
+        ],
+        "fm_only_added": [
+            "Hable con Ella",
+            "La Piel Que Habito",
+            "Todo Sobre Mi Madre",
+            "Abre los ojos",
+            "Mar adentro",
+            "Mar Adentro"
+        ],
+        "fm_final": [
+            "Hable con ella",
+            "Todo sobre mi madre",
+            "Volver",
+            "Hable con Ella",
+            "La Piel Que Habito",
+            "Todo Sobre Mi Madre",
+            "Abre los ojos",
+            "Mar adentro",
+            "Mar Adentro"
+        ],
+        "norm_final": [
+            "abre los ojos",
+            "hable con ella",
+            "la piel que habito",
+            "mar adentro",
+            "todo sobre mi madre",
+            "volver"
+        ],
+        "norm_final_without_original": [
+            "abre los ojos",
+            "hable con ella",
+            "la piel que habito",
+            "mar adentro",
+            "todo sobre mi madre"
+        ],
+        "fm_orig_movieId": [
+            "5878",
+            "3083",
+            "44694"
+        ],
+        "fm_only_added_movieId": [
+            "5878",
+            "89118",
+            "3083",
+            "2594",
+            "27803",
+            "27803"
+        ],
+        "fm_final_movieId": [
+            "5878",
+            "3083",
+            "44694",
+            "5878",
+            "89118",
+            "3083",
+            "2594",
+            "27803",
+            "27803"
+        ]
+    },
+    "user90": {
+        "fm_orig": [
+            "Andrei Rublev",
+            "Elizabeth",
+            "Melancholia",
+            "The Seventh Seal"
+        ],
+        "fm_added": [],
+        "fm_only_added": [],
+        "fm_final": [
+            "Andrei Rublev",
+            "Elizabeth",
+            "Melancholia",
+            "The Seventh Seal"
+        ],
+        "norm_final": [
+            "andrei rublev",
+            "elizabeth",
+            "melancholia",
+            "the seventh seal"
+        ],
+        "norm_final_without_original": [],
+        "fm_orig_movieId": [
+            "26150",
+            "2336",
+            "210989",
+            "1237"
+        ],
+        "fm_only_added_movieId": [],
+        "fm_final_movieId": [
+            "26150",
+            "2336",
+            "210989",
+            "1237"
+        ]
+    },
+    "user91": {
+        "fm_orig": [
+            "Inception",
+            "Pulp Fiction",
+            "The Matrix"
+        ],
+        "fm_added": [
+            {
+                "title": "Interstellar",
+                "from_user": "user239",
+                "similarity": 0.583333
+            },
+            {
+                "title": "The Dark Knight",
+                "from_user": "user239",
+                "similarity": 0.583333
+            },
+            {
+                "title": "Guardians of the Galaxy",
+                "from_user": "user717",
+                "similarity": 0.5
+            },
+            {
+                "title": "Iron Man",
+                "from_user": "user717",
+                "similarity": 0.5
+            },
+            {
+                "title": "John Wick",
+                "from_user": "user125",
+                "similarity": 0.5
+            }
+        ],
+        "fm_only_added": [
+            "Interstellar",
+            "The Dark Knight",
+            "Guardians of the Galaxy",
+            "Iron Man",
+            "John Wick"
+        ],
+        "fm_final": [
+            "Inception",
+            "Pulp Fiction",
+            "The Matrix",
+            "Interstellar",
+            "The Dark Knight",
+            "Guardians of the Galaxy",
+            "Iron Man",
+            "John Wick"
+        ],
+        "norm_final": [
+            "guardians of the galaxy",
+            "inception",
+            "interstellar",
+            "iron man",
+            "john wick",
+            "pulp fiction",
+            "the dark knight",
+            "the matrix"
+        ],
+        "norm_final_without_original": [
+            "guardians of the galaxy",
+            "interstellar",
+            "iron man",
+            "john wick",
+            "the dark knight"
+        ],
+        "fm_orig_movieId": [
+            "79132",
+            "296",
+            "2571"
+        ],
+        "fm_only_added_movieId": [
+            "109487",
+            "130219",
+            "112852",
+            "59315",
+            "115149"
+        ],
+        "fm_final_movieId": [
+            "79132",
+            "296",
+            "2571",
+            "109487",
+            "130219",
+            "112852",
+            "59315",
+            "115149"
+        ]
+    },
+    "user92": {
+        "fm_orig": [
+            "Deadpool",
+            "Inception",
+            "Interstellar",
+            "The Dark Knight"
+        ],
+        "fm_added": [
+            {
+                "title": "Jojo Rabbit",
+                "from_user": "user941",
+                "similarity": 0.714286
+            },
+            {
+                "title": "Game of Thrones",
+                "from_user": "user165",
+                "similarity": 0.642857
+            },
+            {
+                "title": "The Big Bang Theory",
+                "from_user": "user1274",
+                "similarity": 0.642857
+            },
+            {
+                "title": "The Wolf of Wall Street",
+                "from_user": "user269",
+                "similarity": 0.571429
+            },
+            {
+                "title": "Pulp Fiction",
+                "from_user": "user283",
+                "similarity": 0.5625
+            },
+            {
+                "title": "Rick and Morty",
+                "from_user": "user623",
+                "similarity": 0.5625
+            },
+            {
+                "title": "The Lord of the Rings Trilogy",
+                "from_user": "user623",
+                "similarity": 0.5625
+            },
+            {
+                "title": "Arrival",
+                "from_user": "user392",
+                "similarity": 0.5
+            },
+            {
+                "title": "Mad Max: Fury Road",
+                "from_user": "user634",
+                "similarity": 0.5
+            },
+            {
+                "title": "Moneyball",
+                "from_user": "user795",
+                "similarity": 0.5
+            },
+            {
+                "title": "Peaky Blinders",
+                "from_user": "user795",
+                "similarity": 0.5
+            },
+            {
+                "title": "The Martian",
+                "from_user": "user392",
+                "similarity": 0.5
+            },
+            {
+                "title": "Thor: Ragnarok",
+                "from_user": "user614",
+                "similarity": 0.5
+            }
+        ],
+        "fm_only_added": [
+            "Jojo Rabbit",
+            "Game of Thrones",
+            "The Big Bang Theory",
+            "The Wolf of Wall Street",
+            "Pulp Fiction",
+            "Rick and Morty",
+            "The Lord of the Rings Trilogy",
+            "Arrival",
+            "Mad Max: Fury Road",
+            "Moneyball",
+            "Peaky Blinders",
+            "The Martian",
+            "Thor: Ragnarok"
+        ],
+        "fm_final": [
+            "Deadpool",
+            "Inception",
+            "Interstellar",
+            "The Dark Knight",
+            "Jojo Rabbit",
+            "Game of Thrones",
+            "The Big Bang Theory",
+            "The Wolf of Wall Street",
+            "Pulp Fiction",
+            "Rick and Morty",
+            "The Lord of the Rings Trilogy",
+            "Arrival",
+            "Mad Max: Fury Road",
+            "Moneyball",
+            "Peaky Blinders",
+            "The Martian",
+            "Thor: Ragnarok"
+        ],
+        "norm_final": [
+            "arrival",
+            "deadpool",
+            "game of thrones",
+            "inception",
+            "interstellar",
+            "jojo rabbit",
+            "mad max fury road",
+            "moneyball",
+            "peaky blinders",
+            "pulp fiction",
+            "rick and morty",
+            "the big bang theory",
+            "the dark knight",
+            "the lord of the rings trilogy",
+            "the martian",
+            "the wolf of wall street",
+            "thor ragnarok"
+        ],
+        "norm_final_without_original": [
+            "arrival",
+            "game of thrones",
+            "jojo rabbit",
+            "mad max fury road",
+            "moneyball",
+            "peaky blinders",
+            "pulp fiction",
+            "rick and morty",
+            "the big bang theory",
+            "the lord of the rings trilogy",
+            "the martian",
+            "the wolf of wall street",
+            "thor ragnarok"
+        ],
+        "fm_orig_movieId": [
+            "122904",
+            "79132",
+            "109487",
+            "130219"
+        ],
+        "fm_only_added_movieId": [
+            "205156",
+            "200950",
+            "300054",
+            "106782",
+            "296",
+            "175693",
+            "300060",
+            "164179",
+            "122882",
+            "89492",
+            "300039",
+            "134130",
+            "122916"
+        ],
+        "fm_final_movieId": [
+            "122904",
+            "79132",
+            "109487",
+            "130219",
+            "205156",
+            "200950",
+            "300054",
+            "106782",
+            "296",
+            "175693",
+            "300060",
+            "164179",
+            "122882",
+            "89492",
+            "300039",
+            "134130",
+            "122916"
+        ]
+    },
+    "user93": {
+        "fm_orig": [
+            "Se7en",
+            "The Lord of the Rings Trilogy",
+            "The Revenant"
+        ],
+        "fm_added": [],
+        "fm_only_added": [],
+        "fm_final": [
+            "Se7en",
+            "The Lord of the Rings Trilogy",
+            "The Revenant"
+        ],
+        "norm_final": [
+            "se7en",
+            "the lord of the rings trilogy",
+            "the revenant"
+        ],
+        "norm_final_without_original": [],
+        "fm_orig_movieId": [
+            "47",
+            "300060",
+            "139385"
+        ],
+        "fm_only_added_movieId": [],
+        "fm_final_movieId": [
+            "47",
+            "300060",
+            "139385"
+        ]
+    },
+    "user94": {
+        "fm_orig": [
+            "Everest",
+            "Jar City",
+            "Trapped"
+        ],
+        "fm_added": [],
+        "fm_only_added": [],
+        "fm_final": [
+            "Everest",
+            "Jar City",
+            "Trapped"
+        ],
+        "norm_final": [
+            "everest",
+            "jar city",
+            "trapped"
+        ],
+        "norm_final_without_original": [],
+        "fm_orig_movieId": [
+            "1797",
+            "66234",
+            "5612"
+        ],
+        "fm_only_added_movieId": [],
+        "fm_final_movieId": [
+            "1797",
+            "66234",
+            "5612"
+        ]
+    },
+    "user95": {
+        "fm_orig": [
+            "Avengers: Endgame",
+            "Guardians of the Galaxy",
+            "Thor: Ragnarok"
+        ],
+        "fm_added": [
+            {
+                "title": "The Avengers",
+                "from_user": "user177",
+                "similarity": 0.666667
+            },
+            {
+                "title": "The Hitchhiker's Guide to the Galaxy",
+                "from_user": "user420",
+                "similarity": 0.666667
+            },
+            {
+                "title": "The Martian",
+                "from_user": "user57",
+                "similarity": 0.666667
+            },
+            {
+                "title": "Rick and Morty",
+                "from_user": "user914",
+                "similarity": 0.642857
+            },
+            {
+                "title": "Spider-Man: No Way Home",
+                "from_user": "user914",
+                "similarity": 0.642857
+            },
+            {
+                "title": "The Mandalorian",
+                "from_user": "user877",
+                "similarity": 0.615385
+            },
+            {
+                "title": "Stranger Things",
+                "from_user": "user37",
+                "similarity": 0.538462
+            },
+            {
+                "title": "The Lego Movie",
+                "from_user": "user365",
+                "similarity": 0.538462
+            },
+            {
+                "title": "BoJack Horseman",
+                "from_user": "user232",
+                "similarity": 0.533333
+            },
+            {
+                "title": "The Grand Budapest Hotel",
+                "from_user": "user1034",
+                "similarity": 0.533333
+            },
+            {
+                "title": "The Lord of the Rings Trilogy",
+                "from_user": "user277",
+                "similarity": 0.533333
+            },
+            {
+                "title": "The Lord of the Rings trilogy",
+                "from_user": "user942",
+                "similarity": 0.5
+            },
+            {
+                "title": "The Marvel Cinematic Universe movies",
+                "from_user": "user942",
+                "similarity": 0.5
+            },
+            {
+                "title": "The Suicide Squad",
+                "from_user": "user1103",
+                "similarity": 0.5
+            },
+            {
+                "title": "What We Do in the Shadows",
+                "from_user": "user942",
+                "similarity": 0.5
+            }
+        ],
+        "fm_only_added": [
+            "The Avengers",
+            "The Hitchhiker's Guide to the Galaxy",
+            "The Martian",
+            "Rick and Morty",
+            "Spider-Man: No Way Home",
+            "The Mandalorian",
+            "Stranger Things",
+            "The Lego Movie",
+            "BoJack Horseman",
+            "The Grand Budapest Hotel",
+            "The Lord of the Rings Trilogy",
+            "The Lord of the Rings trilogy",
+            "The Marvel Cinematic Universe movies",
+            "The Suicide Squad",
+            "What We Do in the Shadows"
+        ],
+        "fm_final": [
+            "Avengers: Endgame",
+            "Guardians of the Galaxy",
+            "Thor: Ragnarok",
+            "The Avengers",
+            "The Hitchhiker's Guide to the Galaxy",
+            "The Martian",
+            "Rick and Morty",
+            "Spider-Man: No Way Home",
+            "The Mandalorian",
+            "Stranger Things",
+            "The Lego Movie",
+            "BoJack Horseman",
+            "The Grand Budapest Hotel",
+            "The Lord of the Rings Trilogy",
+            "The Lord of the Rings trilogy",
+            "The Marvel Cinematic Universe movies",
+            "The Suicide Squad",
+            "What We Do in the Shadows"
+        ],
+        "norm_final": [
+            "avengers endgame",
+            "bojack horseman",
+            "guardians of the galaxy",
+            "rick and morty",
+            "spiderman no way home",
+            "stranger things",
+            "the avengers",
+            "the grand budapest hotel",
+            "the hitchhikers guide to the galaxy",
+            "the lego movie",
+            "the lord of the rings trilogy",
+            "the mandalorian",
+            "the martian",
+            "the marvel cinematic universe movies",
+            "the suicide squad",
+            "thor ragnarok",
+            "what we do in the shadows"
+        ],
+        "norm_final_without_original": [
+            "bojack horseman",
+            "rick and morty",
+            "spiderman no way home",
+            "stranger things",
+            "the avengers",
+            "the grand budapest hotel",
+            "the hitchhikers guide to the galaxy",
+            "the lego movie",
+            "the lord of the rings trilogy",
+            "the mandalorian",
+            "the martian",
+            "the marvel cinematic universe movies",
+            "the suicide squad",
+            "what we do in the shadows"
+        ],
+        "fm_orig_movieId": [
+            "300000",
+            "112852",
+            "122916"
+        ],
+        "fm_only_added_movieId": [
+            "89745",
+            "33004",
+            "134130",
+            "175693",
+            "263007",
+            "300061",
+            "261135",
+            "108932",
+            "300077",
+            "109374",
+            "300060",
+            "300060",
+            "300062",
+            "251086",
+            "115122"
+        ],
+        "fm_final_movieId": [
+            "300000",
+            "112852",
+            "122916",
+            "89745",
+            "33004",
+            "134130",
+            "175693",
+            "263007",
+            "300061",
+            "261135",
+            "108932",
+            "300077",
+            "109374",
+            "300060",
+            "300060",
+            "300062",
+            "251086",
+            "115122"
+        ]
+    },
+    "user96": {
+        "fm_orig": [
+            "Inception",
+            "Interstellar",
+            "The Matrix",
+            "The Silence of the Lambs"
+        ],
+        "fm_added": [],
+        "fm_only_added": [],
+        "fm_final": [
+            "Inception",
+            "Interstellar",
+            "The Matrix",
+            "The Silence of the Lambs"
+        ],
+        "norm_final": [
+            "inception",
+            "interstellar",
+            "the matrix",
+            "the silence of the lambs"
+        ],
+        "norm_final_without_original": [],
+        "fm_orig_movieId": [
+            "79132",
+            "109487",
+            "2571",
+            "593"
+        ],
+        "fm_only_added_movieId": [],
+        "fm_final_movieId": [
+            "79132",
+            "109487",
+            "2571",
+            "593"
+        ]
+    },
+    "user97": {
+        "fm_orig": [
+            "Dune",
+            "Lady Bird",
+            "Little Women"
+        ],
+        "fm_added": [
+            {
+                "title": "Normal People",
+                "from_user": "user23",
+                "similarity": 0.666667
+            },
+            {
+                "title": "Booksmart",
+                "from_user": "user1033",
+                "similarity": 0.583333
+            },
+            {
+                "title": "Call Me By Your Name",
+                "from_user": "user164",
+                "similarity": 0.538462
+            },
+            {
+                "title": "Little Women (2019)",
+                "from_user": "user16",
+                "similarity": 0.538462
+            }
+        ],
+        "fm_only_added": [
+            "Normal People",
+            "Booksmart",
+            "Call Me By Your Name",
+            "Little Women (2019)"
+        ],
+        "fm_final": [
+            "Dune",
+            "Lady Bird",
+            "Little Women",
+            "Normal People",
+            "Booksmart",
+            "Call Me By Your Name",
+            "Little Women (2019)"
+        ],
+        "norm_final": [
+            "booksmart",
+            "call me by your name",
+            "dune",
+            "lady bird",
+            "little women",
+            "normal people"
+        ],
+        "norm_final_without_original": [
+            "booksmart",
+            "call me by your name",
+            "little women",
+            "normal people"
+        ],
+        "fm_orig_movieId": [
+            "2021",
+            "177615",
+            "261"
+        ],
+        "fm_only_added_movieId": [
+            "300035",
+            "200306",
+            "168492",
+            "209315"
+        ],
+        "fm_final_movieId": [
+            "2021",
+            "177615",
+            "261",
+            "300035",
+            "200306",
+            "168492",
+            "209315"
+        ]
+    },
+    "user98": {
+        "fm_orig": [
+            "Lady Bird",
+            "Little Women",
+            "Normal People"
+        ],
+        "fm_added": [
+            {
+                "title": "Booksmart",
+                "from_user": "user474",
+                "similarity": 0.818182
+            },
+            {
+                "title": "Call Me By Your Name",
+                "from_user": "user164",
+                "similarity": 0.818182
+            },
+            {
+                "title": "Little Women (2019)",
+                "from_user": "user16",
+                "similarity": 0.666667
+            },
+            {
+                "title": "Dune",
+                "from_user": "user97",
+                "similarity": 0.538462
+            },
+            {
+                "title": "Frances Ha",
+                "from_user": "user7",
+                "similarity": 0.538462
+            },
+            {
+                "title": "The Perks of Being a Wallflower",
+                "from_user": "user273",
+                "similarity": 0.538462
+            }
+        ],
+        "fm_only_added": [
+            "Booksmart",
+            "Call Me By Your Name",
+            "Little Women (2019)",
+            "Dune",
+            "Frances Ha",
+            "The Perks of Being a Wallflower"
+        ],
+        "fm_final": [
+            "Lady Bird",
+            "Little Women",
+            "Normal People",
+            "Booksmart",
+            "Call Me By Your Name",
+            "Little Women (2019)",
+            "Dune",
+            "Frances Ha",
+            "The Perks of Being a Wallflower"
+        ],
+        "norm_final": [
+            "booksmart",
+            "call me by your name",
+            "dune",
+            "frances ha",
+            "lady bird",
+            "little women",
+            "normal people",
+            "the perks of being a wallflower"
+        ],
+        "norm_final_without_original": [
+            "booksmart",
+            "call me by your name",
+            "dune",
+            "frances ha",
+            "little women",
+            "the perks of being a wallflower"
+        ],
+        "fm_orig_movieId": [
+            "177615",
+            "261",
+            "300035"
+        ],
+        "fm_only_added_movieId": [
+            "200306",
+            "168492",
+            "209315",
+            "2021",
+            "102800",
+            "96821"
+        ],
+        "fm_final_movieId": [
+            "177615",
+            "261",
+            "300035",
+            "200306",
+            "168492",
+            "209315",
+            "2021",
+            "102800",
+            "96821"
+        ]
+    },
+    "user99": {
+        "fm_orig": [
+            "Festen",
+            "Forbrydelsen",
+            "Jagten",
+            "The Celebration",
+            "The Hunt"
+        ],
+        "fm_added": [
+            {
+                "title": "Melancholia",
+                "from_user": "user73",
+                "similarity": 0.588235
+            }
+        ],
+        "fm_only_added": [
+            "Melancholia"
+        ],
+        "fm_final": [
+            "Festen",
+            "Forbrydelsen",
+            "Jagten",
+            "The Celebration",
+            "The Hunt",
+            "Melancholia"
+        ],
+        "norm_final": [
+            "festen",
+            "forbrydelsen",
+            "jagten",
+            "melancholia",
+            "the celebration",
+            "the hunt"
+        ],
+        "norm_final_without_original": [
+            "melancholia"
+        ],
+        "fm_orig_movieId": [
+            "2360",
+            "300081",
+            "96829",
+            "2360",
+            "213892"
+        ],
+        "fm_only_added_movieId": [
+            "210989"
+        ],
+        "fm_final_movieId": [
+            "2360",
+            "300081",
+            "96829",
+            "2360",
+            "213892",
+            "210989"
+        ]
+    },
+    "user100": {
+        "fm_orig": [
+            "Fanny and Alexander",
+            "The Seventh Seal",
+            "The Unknown Soldier"
+        ],
+        "fm_added": [],
+        "fm_only_added": [],
+        "fm_final": [
+            "Fanny and Alexander",
+            "The Seventh Seal",
+            "The Unknown Soldier"
+        ],
+        "norm_final": [
+            "fanny and alexander",
+            "the seventh seal",
+            "the unknown soldier"
+        ],
+        "norm_final_without_original": [],
+        "fm_orig_movieId": [
+            "2068",
+            "1237",
+            "179925"
+        ],
+        "fm_only_added_movieId": [],
+        "fm_final_movieId": [
+            "2068",
+            "1237",
+            "179925"
+        ]
+    }
+}
